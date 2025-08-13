@@ -1798,6 +1798,39 @@ function Page4() {
     </Typography>
   );
 
+  // Local renderer for Value-laden Treemap (fixes undefined and ensures readable labels)
+  const ValueTreemapContent = (props) => {
+    const { x, y, width, height, name } = props;
+    const w = Math.max(0, width || 0);
+    const h = Math.max(0, height || 0);
+    const fontSize = Math.max(10, Math.min(16, Math.min(w, h) / 10));
+    const canShow = w >= 60 && h >= 24;
+    return (
+      <g>
+        <rect
+          x={x}
+          y={y}
+          width={w}
+          height={h}
+          style={{ fill: colors.green, stroke: "#333" }}
+        />
+        {canShow ? (
+          <text
+            x={x + w / 2}
+            y={y + h / 2}
+            textAnchor="middle"
+            dominantBaseline="central"
+            fill="#111"
+            style={{ pointerEvents: "none", fontWeight: 700 }}
+            fontSize={fontSize}
+          >
+            {name}
+          </text>
+        ) : null}
+      </g>
+    );
+  };
+
   const sentimentRadial = cd?.radialbarchart_sentiment_scores || [];
   const sentimentBarsData = useMemo(
     () =>
