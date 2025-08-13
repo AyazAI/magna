@@ -1,0 +1,423 @@
+{
+  "interactiveComponents": {
+    "missionComparisonMatrix": [
+      {
+        "brandName": "APTIV",
+        "mission": "Our mission is to enable a safer, greener and more connected future of mobility by delivering the advanced technology solutions that are transforming the automotive industry."
+      },
+      {
+        "brandName": "BOSCH MOBILITY",
+        "mission": "To provide safe, sustainable, and exciting mobility solutions."
+      },
+      {
+        "brandName": "CONTINENTAL",
+        "mission": "To create a better tomorrow by offering safe, intelligent and sustainable mobility solutions."
+      },
+      {
+        "brandName": "DENSO",
+        "mission": "To create new value by connecting technologies and people, contributing to a better world."
+      },
+      {
+        "brandName": "FORVIA HELLA",
+        "mission": "To be a leading technology partner for our customers by providing intelligent automotive solutions that enhance efficiency, safety, and connectivity."
+      },
+      {
+        "brandName": "GENTEX",
+        "mission": "To improve people’s lives through innovative technology and a commitment to our communities."
+      },
+      {
+        "brandName": "LEAR",
+        "mission": "To be a global leader in automotive technology, and a trusted partner for our customers, by delivering superior innovation, quality and value."
+      },
+      {
+        "brandName": "MAGNA INTERNATIONAL",
+        "mission": "To be the partner of choice for automotive innovation, delivering world-class manufacturing and engineering solutions that shape the future of mobility.",
+        "color": "#E22E2F"
+      },
+      {
+        "brandName": "VALEO",
+        "mission": "To anticipate future trends in mobility and provide innovative solutions that make it safer, more intuitive and more sustainable."
+      },
+      {
+        "brandName": "ZF",
+        "mission": "To provide innovative and sustainable mobility solutions that make vehicles see, think and act."
+      }
+    ],
+    "visionComparisonMatrix": [
+      {
+        "brandName": "APTIV",
+        "vision": "A world with zero accidents, zero emissions, and a seamless experience for all."
+      },
+      {
+        "brandName": "BOSCH MOBILITY",
+        "vision": "Vision Zero: We envision a world of mobility that is free of accidents, emissions, and stress."
+      },
+      {
+        "brandName": "CONTINENTAL",
+        "vision": "We shape the future of mobility."
+      },
+      {
+        "brandName": "DENSO",
+        "vision": "A 'well-being society' where everyone can live with peace of mind."
+      },
+      {
+        "brandName": "FORVIA HELLA",
+        "vision": "To be the leading innovator in automotive lighting, electronics and lifecycle solutions."
+      },
+      {
+        "brandName": "GENTEX",
+        "vision": "To be a global technology company recognized for innovative products that make people's lives better and safer."
+      },
+      {
+        "brandName": "LEAR",
+        "vision": "A global society with safe, smart, and sustainable mobility."
+      },
+      {
+        "brandName": "MAGNA INTERNATIONAL",
+        "vision": "To create a world of better mobility.",
+        "color": "#E22E2F"
+      },
+      {
+        "brandName": "VALEO",
+        "vision": "We are architects of mobility's software-defined future."
+      },
+      {
+        "brandName": "ZF",
+        "vision": "Next Generation Mobility: We are building the technologies of tomorrow, today."
+      }
+    ],
+    "purposeComparisonMatrix": [
+      {
+        "brandName": "APTIV",
+        "purpose": "To enable the future of mobility."
+      },
+      {
+        "brandName": "BOSCH MOBILITY",
+        "purpose": "We are powering the mobility revolution."
+      },
+      {
+        "brandName": "CONTINENTAL",
+        "purpose": "We power the connected and automated vehicle."
+      },
+      {
+        "brandName": "DENSO",
+        "purpose": "To create new value by contributing to a society with peace of mind."
+      },
+      {
+        "brandName": "FORVIA HELLA",
+        "purpose": "To be a trusted partner in the mobility revolution."
+      },
+      {
+        "brandName": "GENTEX",
+        "purpose": "To provide innovative technology that makes lives better and safer."
+      },
+      {
+        "brandName": "LEAR",
+        "purpose": "To make every drive better, smarter, and more sustainable."
+      },
+      {
+        "brandName": "MAGNA INTERNATIONAL",
+        "purpose": "To shape the future of mobility.",
+        "color": "#E22E2F"
+      },
+      {
+        "brandName": "VALEO",
+        "purpose": "We are revolutionizing mobility through innovation and technology."
+      },
+      {
+        "brandName": "ZF",
+        "purpose": "To drive the next generation of mobility through our passion for technology and innovation."
+      }
+    ],
+    "valuesExplorer": [
+      {
+        "brandName": "APTIV",
+        "values": ["Teamwork", "Passion", "Integrity", "Excellence"]
+      },
+      {
+        "brandName": "BOSCH MOBILITY",
+        "values": ["Responsibility", "Sustainability", "Openness", "Fairness"]
+      },
+      {
+        "brandName": "CONTINENTAL",
+        "values": [
+          "Trust",
+          "Passion to Win",
+          "Freedom to Act",
+          "For One Another"
+        ]
+      },
+      {
+        "brandName": "DENSO",
+        "values": ["Trust", "Creativity", "Collaboration", "Integrity"]
+      },
+      {
+        "brandName": "FORVIA HELLA",
+        "values": ["Customer Focus", "Innovation", "Accountability", "Teamwork"]
+      },
+      {
+        "brandName": "GENTEX",
+        "values": ["Community", "Innovation", "Integrity", "Customer"]
+      },
+      {
+        "brandName": "LEAR",
+        "values": [
+          "Customer Focus",
+          "Operational Excellence",
+          "Innovation",
+          "Integrity"
+        ]
+      },
+      {
+        "brandName": "MAGNA INTERNATIONAL",
+        "values": [
+          "Entrepreneurial Spirit",
+          "Customer Centricity",
+          "Innovation",
+          "Operational Excellence"
+        ],
+        "color": "#E22E2F"
+      },
+      {
+        "brandName": "VALEO",
+        "values": ["Innovation", "Responsibility", "Teamwork", "Respect"]
+      },
+      {
+        "brandName": "ZF",
+        "values": ["Passion", "Innovation", "Trust", "Accountability"]
+      }
+    ],
+    "positioningStatementCards": [
+      {
+        "brandName": "APTIV",
+        "positioningStatement": "Aptiv is the technology partner that helps OEMs master the transition to Software-Defined Vehicles by providing the scalable and intelligent 'nervous system' for tomorrow's mobility."
+      },
+      {
+        "brandName": "BOSCH MOBILITY",
+        "positioningStatement": "Bosch is the orchestrator of the mobility revolution, bridging hardware and software to provide comprehensive, integrated solutions for a safer, cleaner, and more efficient future."
+      },
+      {
+        "brandName": "CONTINENTAL",
+        "positioningStatement": "Continental is the assured, pragmatic expert powering the connected and automated vehicle, providing a safe, reliable, and intelligent foundation for the future of mobility."
+      },
+      {
+        "brandName": "DENSO",
+        "positioningStatement": "DENSO is the trusted partner that connects technology and well-being, providing reliable and innovative systems that enable a safe and secure society for everyone."
+      },
+      {
+        "brandName": "FORVIA HELLA",
+        "positioningStatement": "FORVIA HELLA is the forward-looking technology partner that provides intelligent lighting and electronics solutions to drive the transformation towards a sustainable and digital future."
+      },
+      {
+        "brandName": "GENTEX",
+        "positioningStatement": "Gentex is the human-centric innovator and 'Creator' of smart technologies that enhance safety and improve lives by making everyday experiences better and more intuitive."
+      },
+      {
+        "brandName": "LEAR",
+        "positioningStatement": "Lear is the partner for 'E-Systems' and 'Seating' that delivers operational excellence, sustainable innovation, and superior value to make every drive better, smarter, and more comfortable."
+      },
+      {
+        "brandName": "MAGNA INTERNATIONAL",
+        "positioningStatement": "Magna International is the 'Creator' of a better world of mobility, leveraging our broad portfolio and global scale to provide innovative manufacturing and engineering solutions that 'shape the future of mobility.'",
+        "color": "#E22E2F"
+      },
+      {
+        "brandName": "VALEO",
+        "positioningStatement": "Valeo is the architect of a software-defined future, providing a full range of electrification, automation and digitalization solutions to create an intuitive and sustainable mobility experience."
+      },
+      {
+        "brandName": "ZF",
+        "positioningStatement": "ZF is the visionary technology leader that is building the 'Next Generation Mobility' by providing integrated chassis, powertrain, and software solutions that make vehicles see, think, and act."
+      }
+    ],
+    "keyThemesVisualization": [
+      {
+        "brandName": "APTIV",
+        "themes": [
+          "Safety",
+          "Sustainability",
+          "Connectivity",
+          "Innovation",
+          "Technology"
+        ]
+      },
+      {
+        "brandName": "BOSCH MOBILITY",
+        "themes": [
+          "Comprehensive Transformation",
+          "Software Defined",
+          "Sustainability",
+          "Mobility",
+          "Technology"
+        ]
+      },
+      {
+        "brandName": "CONTINENTAL",
+        "themes": [
+          "Safety",
+          "Sustainability",
+          "Digital Connectivity",
+          "eMobility",
+          "Technology"
+        ]
+      },
+      {
+        "brandName": "DENSO",
+        "themes": [
+          "Reliability",
+          "Innovation",
+          "Well Being",
+          "Sustainability",
+          "Technology"
+        ]
+      },
+      {
+        "brandName": "FORVIA HELLA",
+        "themes": [
+          "Technology",
+          "Sustainability",
+          "Transformation",
+          "Lighting",
+          "Electronics"
+        ]
+      },
+      {
+        "brandName": "GENTEX",
+        "themes": [
+          "Innovation",
+          "Vision Technology",
+          "Culture",
+          "Community",
+          "Technology"
+        ]
+      },
+      {
+        "brandName": "LEAR",
+        "themes": [
+          "Seating",
+          "E-Systems",
+          "Sustainability",
+          "Innovation",
+          "Operational Excellence"
+        ]
+      },
+      {
+        "brandName": "MAGNA INTERNATIONAL",
+        "themes": [
+          "Innovation",
+          "Safety",
+          "Sustainability",
+          "Electrification",
+          "Autonomous Driving"
+        ],
+        "color": "#E22E2F"
+      },
+      {
+        "brandName": "VALEO",
+        "themes": [
+          "Electrification",
+          "Automation",
+          "Digitalization",
+          "Innovation",
+          "Technology"
+        ]
+      },
+      {
+        "brandName": "ZF",
+        "themes": [
+          "eMobility",
+          "Autonomous Driving",
+          "Transformation",
+          "Technology",
+          "Sustainability"
+        ]
+      }
+    ],
+    "brandPromiseDisplay": [
+      {
+        "brandName": "APTIV",
+        "promise": "To solve mobility’s toughest challenges."
+      },
+      {
+        "brandName": "BOSCH MOBILITY",
+        "promise": "To be the leading orchestrator of the mobility revolution."
+      },
+      {
+        "brandName": "CONTINENTAL",
+        "promise": "To be a trusted partner for connected and automated mobility."
+      },
+      {
+        "brandName": "DENSO",
+        "promise": "To create new value by connecting technologies and people."
+      },
+      {
+        "brandName": "FORVIA HELLA",
+        "promise": "To create a cleaner, safer, smarter mobility experience."
+      },
+      {
+        "brandName": "GENTEX",
+        "promise": "To make people’s lives better and safer."
+      },
+      {
+        "brandName": "LEAR",
+        "promise": "To make every drive better."
+      },
+      {
+        "brandName": "MAGNA INTERNATIONAL",
+        "promise": "To shape the future of mobility.",
+        "color": "#E22E2F"
+      },
+      {
+        "brandName": "VALEO",
+        "promise": "We are revolutionizing mobility."
+      },
+      {
+        "brandName": "ZF",
+        "promise": "To enable the next generation of mobility."
+      }
+    ],
+    "taglineGallery": [
+      {
+        "brandName": "APTIV",
+        "tagline": "The future of mobility is here."
+      },
+      {
+        "brandName": "BOSCH MOBILITY",
+        "tagline": "Invented for life."
+      },
+      {
+        "brandName": "CONTINENTAL",
+        "tagline": "The Future in Motion."
+      },
+      {
+        "brandName": "DENSO",
+        "tagline": "Driving a better tomorrow."
+      },
+      {
+        "brandName": "FORVIA HELLA",
+        "tagline": "Driving the future."
+      },
+      {
+        "brandName": "GENTEX",
+        "tagline": "A better life, a better world."
+      },
+      {
+        "brandName": "LEAR",
+        "tagline": "Every drive better."
+      },
+      {
+        "brandName": "MAGNA INTERNATIONAL",
+        "tagline": "Innovate, build, lead.",
+        "color": "#E22E2F"
+      },
+      {
+        "brandName": "VALEO",
+        "tagline": "Smart technology for a new era of mobility."
+      },
+      {
+        "brandName": "ZF",
+        "tagline": "Next Generation Mobility."
+      }
+    ]
+  }
+}

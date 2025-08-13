@@ -1,0 +1,220 @@
+{
+  "strategicHub": {
+    "executiveStrategicSummary": {
+      "magnaCreatorAdvantage": "Magna holds a unique position as one of only two brands (20%) leveraging the 'Creator' archetype. This provides a significant differentiation opportunity against the 70% of the market dominated by the 'Sage' archetype.",
+      "sdvCrisisAlert": "Magna is not a top 3 leader in Software-Defined Vehicles (SDV), a critical future-driver. This is a significant gap compared to leaders like Aptiv and Bosch and requires immediate, urgent action.",
+      "integrationOpportunity": "The territory of 'Integration Leadership' is completely unclaimed by competitors. Magna's comprehensive portfolio and manufacturing excellence make it uniquely positioned to claim this high-value whitespace.",
+      "confidenceRatioConcern": "Magna's low confidence ratio of 2.5:1 is a critical vulnerability. It is significantly lower than the industry average of 6.8:1 and undermines the 'Creator' archetype by suggesting a lack of conviction.",
+      "audienceGaps": "Magna's messaging is missing critical emerging audiences such as 'Software Developers,' 'Data Scientists,' and 'City Planners,' while its C-suite targeting is less specific than competitors like Lear."
+    },
+    "competitivePositionScorecard": [
+      {
+        "metric": "Electrification Leadership",
+        "magnaRank": 1,
+        "status": "GREEN",
+        "distanceToLeader": "N/A",
+        "trend": "Strong Leadership"
+      },
+      {
+        "metric": "SDV Leadership",
+        "magnaRank": 3,
+        "status": "GREEN",
+        "distanceToLeader": "2 ranks below leader (Aptiv)",
+        "trend": "Urgent Action Needed to Defend"
+      },
+      {
+        "metric": "ADAS Leadership",
+        "magnaRank": 4,
+        "status": "YELLOW",
+        "distanceToLeader": "3 ranks below leader (Continental)",
+        "trend": "Improvement Opportunity"
+      },
+      {
+        "metric": "Confidence Ratio",
+        "magnaRank": 7,
+        "status": "RED",
+        "distanceToLeader": "Lagging industry average",
+        "trend": "Critical Vulnerability"
+      },
+      {
+        "metric": "Direct Address Count",
+        "magnaRank": 3,
+        "status": "GREEN",
+        "distanceToLeader": "354 below leader (Continental)",
+        "trend": "Middle Tier, Room for Growth"
+      },
+      {
+        "metric": "Active Voice %",
+        "magnaRank": 4,
+        "status": "YELLOW",
+        "distanceToLeader": "7% below leader (APTIV)",
+        "trend": "Consistent"
+      },
+      {
+        "metric": "Pages Analyzed",
+        "magnaRank": 1,
+        "status": "GREEN",
+        "distanceToLeader": "N/A",
+        "trend": "Highest Volume"
+      }
+    ],
+    "topOpportunitiesDashboard": [
+      {
+        "title": "Claim 'Integration Leadership'",
+        "description": "Magna is uniquely positioned to own the unclaimed narrative of 'Integration Leadership' and become the master orchestrator of complex mobility solutions.",
+        "color": "#8FFF00"
+      },
+      {
+        "title": "Creator vs. Sage Differentiation",
+        "description": "Leverage the 'Creator' archetype to stand out from the 70% of competitors who rely on a 'Sage' or authoritative tone.",
+        "color": "#8FFF00"
+      },
+      {
+        "title": "Target the Software Developer Audience",
+        "description": "An entirely unclaimed audience (0% competition) that is critical to the future of software-defined vehicles.",
+        "color": "#8FFF00"
+      },
+      {
+        "title": "B2C Whitespace Exploration",
+        "description": "No competitors have a B2C narrative. This presents a major opportunity for a 'pull-through' marketing strategy to influence OEM purchasing decisions.",
+        "color": "#8FFF00"
+      },
+      {
+        "title": "SDV Narrative Acceleration",
+        "description": "There is a critical need to elevate Magna's SDV narrative to match its capabilities and claim a leadership position in this future-critical driver.",
+        "color": "#8FFF00"
+      }
+    ],
+    "criticalThreatsMonitor": [
+      {
+        "threat": "SDV Leadership Gap",
+        "description": "Magna is not a narrative leader in Software-Defined Vehicles, with a lower sentiment score (0.88) and ranking (3rd) than key competitors like Bosch and Aptiv.",
+        "color": "#DA6E44"
+      },
+      {
+        "threat": "Low Confidence Ratio",
+        "description": "A confidence ratio of 2.5:1, the lowest in the industry, undermines Magna's narrative and may be perceived as cautious or lacking conviction.",
+        "color": "#DA6E44"
+      },
+      {
+        "threat": "Engagement Deficit",
+        "description": "Magna's direct address count of 270 is significantly lower than Continental's 624, indicating a gap in audience engagement and relationship-building.",
+        "color": "#DA6E44"
+      },
+      {
+        "threat": "Missing C-Suite Targeting",
+        "description": "Unlike Lear, Magna lacks a specific, well-defined narrative targeting the C-suite, a crucial audience for securing high-value partnerships.",
+        "color": "#DA6E44"
+      },
+      {
+        "threat": "Heritage vs. Future Tension",
+        "description": "Like many large brands, Magna risks being perceived as a 'legacy' player rather than a true 'Creator' of the future without a bold, forward-looking narrative.",
+        "color": "#DA6E44"
+      }
+    ],
+    "competitiveAdvantageTracker": {
+      "manufacturingExcellence": "Magna's unique narrative around 'Manufacturing Intelligence' is a strong, defensible advantage based on its operational strengths.",
+      "sustainabilitySentiment": {
+        "score": 0.75,
+        "description": "While not a leader, Magna's sentiment on sustainability is solid and can be leveraged as a foundational element of its brand story."
+      },
+      "comprehensivePortfolio": "Magna’s breadth of offerings is a unique asset that no single competitor can match, forming the basis for its 'Integration Leadership' claim.",
+      "globalScale": "Magna's massive global footprint provides a strategic advantage for delivering solutions and manufacturing intelligence at scale.",
+      "creatorArchetype": "The 'Creator' archetype is a powerful, differentiating tool that Magna can use to stand out in a saturated market."
+    },
+    "strategicActionPriorities": {
+      "immediate": {
+        "title": "SDV Leadership & Integration",
+        "actions": [
+          "Claim 'Integration Leadership' as a new positioning statement.",
+          "Develop an urgent, targeted content campaign for SDV to match competitors like Bosch.",
+          "Increase confidence ratio by adjusting messaging tone."
+        ],
+        "priority": "Critical"
+      },
+      "shortTerm": {
+        "title": "Creator Activation & Engagement",
+        "actions": [
+          "Fully activate the 'Creator' archetype through all brand touchpoints.",
+          "Significantly increase the use of 'you/your' to boost engagement to 400+ mentions.",
+          "Create specific messaging tailored for C-suite and executive audiences."
+        ],
+        "priority": "High"
+      },
+      "longTerm": {
+        "title": "Audience & Narrative Expansion",
+        "actions": [
+          "Develop a narrative and content for 'Software Developers' and 'Data Scientists'.",
+          "Begin exploring B2C 'pull-through' marketing opportunities to build brand awareness.",
+          "Implement a long-term strategy to own new territories like 'Manufacturing Intelligence'."
+        ],
+        "priority": "Medium"
+      }
+    },
+    "navigationPanel": {
+      "links": [
+        {
+          "title": "Executive Strategic Summary",
+          "sectionId": "executive-summary"
+        },
+        { "title": "Competitive Position Scorecard", "sectionId": "scorecard" },
+        {
+          "title": "Top Opportunities Dashboard",
+          "sectionId": "opportunities"
+        },
+        { "title": "Critical Threats Monitor", "sectionId": "threats" },
+        { "title": "Competitive Advantage Tracker", "sectionId": "advantages" },
+        { "title": "Strategic Action Priorities", "sectionId": "actions" },
+        {
+          "title": "Success Metrics Dashboard",
+          "sectionId": "success-metrics"
+        },
+        {
+          "title": "Comparative Analysis Tool",
+          "sectionId": "comparative-analysis"
+        }
+      ]
+    },
+    "comparativeAnalysisTool": {
+      "brands": [
+        "APTIV",
+        "BOSCH MOBILITY",
+        "CONTINENTAL",
+        "MAGNA INTERNATIONAL"
+      ],
+      "metrics": [
+        "SDV_Sentiment",
+        "Confidence_Ratio",
+        "Direct_Address_Count",
+        "Active_Voice_Percentage"
+      ],
+      "magnaHighlightColor": "#E22E2F"
+    },
+    "successMetricsDashboard": {
+      "leadingIndicators": [
+        "SDV content engagement (views, downloads)",
+        "Confidence ratio score trend (aim for 5.0+)",
+        "Direct address frequency (aim for 400+)",
+        "Mentions in target publications (e.g., tech and software-focused media)",
+        "Narrative resonance scores with new audiences"
+      ],
+      "competitiveBenchmarks": [
+        {
+          "metric": "SDV Sentiment",
+          "leader": "Bosch Mobility",
+          "score": 0.95
+        },
+        {
+          "metric": "Confidence Ratio",
+          "leader": "Forvia Hella",
+          "score": 14.1
+        },
+        {
+          "metric": "Direct Address Count",
+          "leader": "Continental",
+          "count": 624
+        }
+      ]
+    }
+  }
+}

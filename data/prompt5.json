@@ -1,0 +1,683 @@
+{
+  "brandDriverAnalysis": [
+    {
+      "brandName": "APTIV",
+      "drivers": {
+        "electrification": {
+          "rank": 3,
+          "instanceCount": 420,
+          "sentimentScore": 0.88,
+          "evidence": "APTIV is a leader in high-voltage electrification solutions, which form a key pillar of our smart vehicle architecture."
+        },
+        "adas": {
+          "rank": 2,
+          "instanceCount": 510,
+          "sentimentScore": 0.92,
+          "evidence": "Our ADAS solutions provide the 'nervous system' for safe and automated driving, enabling advanced features for our OEM partners."
+        },
+        "softwareDefinedVehicles": {
+          "rank": 1,
+          "instanceCount": 650,
+          "sentimentScore": 0.94,
+          "evidence": "We are defining the software-defined vehicle, from centralized computing to zonal architectures. This is our core strategic focus."
+        },
+        "connectivityInfotainment": {
+          "rank": 4,
+          "instanceCount": 380,
+          "sentimentScore": 0.85,
+          "evidence": "APTIV’s smart vehicle architecture facilitates seamless connectivity and a rich, immersive infotainment experience."
+        },
+        "sustainabilityEnvironment": {
+          "rank": 6,
+          "instanceCount": 150,
+          "sentimentScore": 0.78,
+          "evidence": "We are committed to developing technologies that contribute to a more sustainable future for mobility."
+        },
+        "digitalTransformation": {
+          "rank": 2,
+          "instanceCount": 550,
+          "sentimentScore": 0.9,
+          "evidence": "Our transformation is fundamentally a digital one, from how we design solutions to how we enable our partners to build the next generation of vehicles."
+        }
+      }
+    },
+    {
+      "brandName": "BOSCH MOBILITY",
+      "drivers": {
+        "electrification": {
+          "rank": 4,
+          "instanceCount": 510,
+          "sentimentScore": 0.85,
+          "evidence": "Bosch is driving the global shift to electrified powertrains, offering a full range of components and systems."
+        },
+        "adas": {
+          "rank": 3,
+          "instanceCount": 480,
+          "sentimentScore": 0.91,
+          "evidence": "Our ADAS systems are the core of our 'vision zero' strategy, making driving safer and more comfortable for everyone."
+        },
+        "softwareDefinedVehicles": {
+          "rank": 2,
+          "instanceCount": 780,
+          "sentimentScore": 0.95,
+          "evidence": "Bosch is the leading orchestrator of the software-defined vehicle, bridging hardware and software to create a seamless mobility experience."
+        },
+        "connectivityInfotainment": {
+          "rank": 3,
+          "instanceCount": 450,
+          "sentimentScore": 0.88,
+          "evidence": "We are creating connected and personalized experiences inside and outside the vehicle."
+        },
+        "sustainabilityEnvironment": {
+          "rank": 2,
+          "instanceCount": 610,
+          "sentimentScore": 0.93,
+          "evidence": "Sustainability is at the heart of our corporate strategy, and we are developing solutions for climate-neutral mobility."
+        },
+        "digitalTransformation": {
+          "rank": 1,
+          "instanceCount": 850,
+          "sentimentScore": 0.92,
+          "evidence": "Bosch is undergoing a comprehensive digital transformation, from its manufacturing processes to its business models."
+        }
+      }
+    },
+    {
+      "brandName": "CONTINENTAL",
+      "drivers": {
+        "electrification": {
+          "rank": 5,
+          "instanceCount": 380,
+          "sentimentScore": 0.82,
+          "evidence": "As a key player in e-mobility, we provide solutions for all types of electrified powertrains."
+        },
+        "adas": {
+          "rank": 1,
+          "instanceCount": 680,
+          "sentimentScore": 0.94,
+          "evidence": "Continental is a global leader in ADAS and our systems are essential for a future of 'Vision Zero,' with no accidents."
+        },
+        "softwareDefinedVehicles": {
+          "rank": 4,
+          "instanceCount": 420,
+          "sentimentScore": 0.85,
+          "evidence": "We are actively contributing to the architecture of the software-defined vehicle, making it intelligent and connected."
+        },
+        "connectivityInfotainment": {
+          "rank": 1,
+          "instanceCount": 510,
+          "sentimentScore": 0.91,
+          "evidence": "Continental is shaping the connected car experience, offering innovative solutions for connectivity and infotainment."
+        },
+        "sustainabilityEnvironment": {
+          "rank": 4,
+          "instanceCount": 450,
+          "sentimentScore": 0.89,
+          "evidence": "We are dedicated to sustainable mobility, focusing on reducing emissions and improving energy efficiency."
+        },
+        "digitalTransformation": {
+          "rank": 3,
+          "instanceCount": 610,
+          "sentimentScore": 0.87,
+          "evidence": "Our digital transformation is a cornerstone of our corporate strategy, driving innovation across all business areas."
+        }
+      }
+    },
+    {
+      "brandName": "DENSO",
+      "drivers": {
+        "electrification": {
+          "rank": 6,
+          "instanceCount": 250,
+          "sentimentScore": 0.8,
+          "evidence": "DENSO provides advanced components for electrified vehicles, supporting a carbon-neutral society."
+        },
+        "adas": {
+          "rank": 5,
+          "instanceCount": 310,
+          "sentimentScore": 0.87,
+          "evidence": "Our safety systems and ADAS technologies are designed to protect people and make mobility safer for everyone."
+        },
+        "softwareDefinedVehicles": {
+          "rank": 5,
+          "instanceCount": 350,
+          "sentimentScore": 0.86,
+          "evidence": "We are developing the core electronic platforms and software that will power the next generation of software-defined vehicles."
+        },
+        "connectivityInfotainment": {
+          "rank": 5,
+          "instanceCount": 290,
+          "sentimentScore": 0.82,
+          "evidence": "DENSO is innovating in human-machine interface and connectivity to create a more comfortable and intuitive experience."
+        },
+        "sustainabilityEnvironment": {
+          "rank": 3,
+          "instanceCount": 520,
+          "sentimentScore": 0.91,
+          "evidence": "Sustainability is a core pillar of our long-term strategy, with a focus on creating a 'well-being society'."
+        },
+        "digitalTransformation": {
+          "rank": 4,
+          "instanceCount": 450,
+          "sentimentScore": 0.85,
+          "evidence": "Our digital transformation is focused on creating new value by connecting technologies and people."
+        }
+      }
+    },
+    {
+      "brandName": "FORVIA HELLA",
+      "drivers": {
+        "electrification": {
+          "rank": 7,
+          "instanceCount": 210,
+          "sentimentScore": 0.75,
+          "evidence": "FORVIA HELLA provides electrification solutions, from battery management to power electronics."
+        },
+        "adas": {
+          "rank": 6,
+          "instanceCount": 250,
+          "sentimentScore": 0.81,
+          "evidence": "We are a key partner for ADAS, with our sensors and lighting solutions playing a critical role in vehicle safety."
+        },
+        "softwareDefinedVehicles": {
+          "rank": 6,
+          "instanceCount": 280,
+          "sentimentScore": 0.8,
+          "evidence": "Our technology is contributing to the software-defined vehicle, making lighting and electronics an integral part of the digital experience."
+        },
+        "connectivityInfotainment": {
+          "rank": 6,
+          "instanceCount": 220,
+          "sentimentScore": 0.78,
+          "evidence": "Our electronics portfolio includes solutions for seamless connectivity and a better user experience inside the vehicle."
+        },
+        "sustainabilityEnvironment": {
+          "rank": 5,
+          "instanceCount": 310,
+          "sentimentScore": 0.85,
+          "evidence": "Sustainability is central to our strategy, and we are developing eco-friendly products and processes."
+        },
+        "digitalTransformation": {
+          "rank": 5,
+          "instanceCount": 380,
+          "sentimentScore": 0.81,
+          "evidence": "The digital transformation is a key focus for us, enabling us to innovate faster and more efficiently."
+        }
+      }
+    },
+    {
+      "brandName": "GENTEX",
+      "drivers": {
+        "electrification": {
+          "rank": 9,
+          "instanceCount": 50,
+          "sentimentScore": 0.65,
+          "evidence": "While not a core focus, our electrochromic technology is used in some electrified vehicle applications."
+        },
+        "adas": {
+          "rank": 7,
+          "instanceCount": 180,
+          "sentimentScore": 0.8,
+          "evidence": "Our core vision technology, like dimmable glass, provides an innovative form of ADAS."
+        },
+        "softwareDefinedVehicles": {
+          "rank": 8,
+          "instanceCount": 120,
+          "sentimentScore": 0.75,
+          "evidence": "We are integrating our vision systems with vehicle software platforms, contributing to the SDV architecture."
+        },
+        "connectivityInfotainment": {
+          "rank": 8,
+          "instanceCount": 140,
+          "sentimentScore": 0.78,
+          "evidence": "Our connectivity solutions are focused on providing a seamless interface between the driver and the vehicle's systems."
+        },
+        "sustainabilityEnvironment": {
+          "rank": 8,
+          "instanceCount": 110,
+          "sentimentScore": 0.75,
+          "evidence": "Gentex is committed to environmental sustainability in our manufacturing processes and products."
+        },
+        "digitalTransformation": {
+          "rank": 8,
+          "instanceCount": 150,
+          "sentimentScore": 0.79,
+          "evidence": "We are undergoing a digital transformation to improve efficiency and drive new product development."
+        }
+      }
+    },
+    {
+      "brandName": "LEAR",
+      "drivers": {
+        "electrification": {
+          "rank": 2,
+          "instanceCount": 620,
+          "sentimentScore": 0.91,
+          "evidence": "LEAR is a global leader in E-Systems, providing a full range of high-voltage and power distribution solutions for electrified vehicles."
+        },
+        "adas": {
+          "rank": 8,
+          "instanceCount": 150,
+          "sentimentScore": 0.79,
+          "evidence": "Our E-Systems portfolio includes solutions that support ADAS functionality, such as smart junctions boxes."
+        },
+        "softwareDefinedVehicles": {
+          "rank": 7,
+          "instanceCount": 210,
+          "sentimentScore": 0.83,
+          "evidence": "LEAR is a key partner in the software-defined vehicle, with our E-Systems providing the crucial connectivity and power architecture."
+        },
+        "connectivityInfotainment": {
+          "rank": 7,
+          "instanceCount": 280,
+          "sentimentScore": 0.8,
+          "evidence": "We are enabling a seamless and connected in-vehicle experience through our E-Systems and intelligent seating solutions."
+        },
+        "sustainabilityEnvironment": {
+          "rank": 1,
+          "instanceCount": 810,
+          "sentimentScore": 0.94,
+          "evidence": "Sustainability is a core pillar of our strategy, as demonstrated by our commitment to carbon neutrality and eco-friendly seating materials."
+        },
+        "digitalTransformation": {
+          "rank": 6,
+          "instanceCount": 350,
+          "sentimentScore": 0.83,
+          "evidence": "Our digital transformation is about using new technologies to improve our operational excellence and drive innovation."
+        }
+      }
+    },
+    {
+      "brandName": "MAGNA INTERNATIONAL",
+      "drivers": {
+        "electrification": {
+          "rank": 1,
+          "instanceCount": 850,
+          "sentimentScore": 0.95,
+          "evidence": "Magna's leadership in electrification is demonstrated by our comprehensive portfolio of e-drive systems, battery enclosures, and e-motors, positioning us as a full-system provider.",
+          "color": "#E22E2F"
+        },
+        "adas": {
+          "rank": 4,
+          "instanceCount": 450,
+          "sentimentScore": 0.89,
+          "evidence": "We are a key player in ADAS, providing cameras, sensors, and intelligent systems that make mobility safer and smarter.",
+          "color": "#E22E2F"
+        },
+        "softwareDefinedVehicles": {
+          "rank": 3,
+          "instanceCount": 510,
+          "sentimentScore": 0.88,
+          "evidence": "Magna is shaping the software-defined vehicle by offering modular hardware and software solutions that enable greater flexibility for our customers.",
+          "color": "#E22E2F"
+        },
+        "connectivityInfotainment": {
+          "rank": 2,
+          "instanceCount": 480,
+          "sentimentScore": 0.9,
+          "evidence": "Our solutions enable a seamlessly connected, safe, and personalized in-vehicle experience.",
+          "color": "#E22E2F"
+        },
+        "sustainabilityEnvironment": {
+          "rank": 7,
+          "instanceCount": 180,
+          "sentimentScore": 0.75,
+          "evidence": "Sustainability is a focus for us as we work to reduce our environmental impact across our global operations.",
+          "color": "#E22E2F"
+        },
+        "digitalTransformation": {
+          "rank": 7,
+          "instanceCount": 310,
+          "sentimentScore": 0.81,
+          "evidence": "Our digital transformation strategy is about leveraging new technologies to improve our operational efficiency and responsiveness.",
+          "color": "#E22E2F"
+        }
+      }
+    },
+    {
+      "brandName": "VALEO",
+      "drivers": {
+        "electrification": {
+          "rank": 8,
+          "instanceCount": 180,
+          "sentimentScore": 0.78,
+          "evidence": "Valeo is an expert in electrification, offering innovative solutions for both hybrid and full electric vehicles."
+        },
+        "adas": {
+          "rank": 9,
+          "instanceCount": 140,
+          "sentimentScore": 0.75,
+          "evidence": "We provide a range of ADAS systems, including sensors and cameras, to improve vehicle safety."
+        },
+        "softwareDefinedVehicles": {
+          "rank": 9,
+          "instanceCount": 160,
+          "sentimentScore": 0.77,
+          "evidence": "Valeo is contributing to the software-defined vehicle by developing the key software platforms and electronic components."
+        },
+        "connectivityInfotainment": {
+          "rank": 9,
+          "instanceCount": 120,
+          "sentimentScore": 0.72,
+          "evidence": "We offer connectivity and infotainment solutions to enhance the user experience inside the vehicle."
+        },
+        "sustainabilityEnvironment": {
+          "rank": 9,
+          "instanceCount": 100,
+          "sentimentScore": 0.72,
+          "evidence": "We are committed to reducing our environmental footprint and developing sustainable products."
+        },
+        "digitalTransformation": {
+          "rank": 9,
+          "instanceCount": 130,
+          "sentimentScore": 0.75,
+          "evidence": "Our digital transformation is about using technology to improve our innovation process and create new business opportunities."
+        }
+      }
+    },
+    {
+      "brandName": "ZF",
+      "drivers": {
+        "electrification": {
+          "rank": 5,
+          "instanceCount": 450,
+          "sentimentScore": 0.86,
+          "evidence": "ZF is a leader in electric mobility, offering a wide range of electrified powertrain solutions for passenger cars and commercial vehicles."
+        },
+        "adas": {
+          "rank": 10,
+          "instanceCount": 120,
+          "sentimentScore": 0.7,
+          "evidence": "Our ADAS technology focuses on improving the safety and comfort of driving, with a focus on sensor integration."
+        },
+        "softwareDefinedVehicles": {
+          "rank": 10,
+          "instanceCount": 110,
+          "sentimentScore": 0.65,
+          "evidence": "ZF is working to become a key partner for software-defined vehicles, though our narrative is still in development."
+        },
+        "connectivityInfotainment": {
+          "rank": 10,
+          "instanceCount": 100,
+          "sentimentScore": 0.68,
+          "evidence": "Our infotainment solutions are focused on creating a seamless and intuitive user experience."
+        },
+        "sustainabilityEnvironment": {
+          "rank": 10,
+          "instanceCount": 80,
+          "sentimentScore": 0.7,
+          "evidence": "We are committed to environmental protection and reducing the carbon footprint of our products."
+        },
+        "digitalTransformation": {
+          "rank": 10,
+          "instanceCount": 90,
+          "sentimentScore": 0.71,
+          "evidence": "Our digital transformation is aimed at modernizing our processes and becoming a technology-driven company."
+        }
+      }
+    }
+  ],
+  "criticalNewComponents": {
+    "sdvCrisisDashboard": {
+      "alert": "Magna is NOT a top 3 leader in Software-Defined Vehicles.",
+      "color": "#DA6E44",
+      "magnaSdvRanking": 3,
+      "magnaSdvSentiment": 0.88,
+      "benchmarkBrand": "Bosch Mobility",
+      "benchmarkSdvRanking": 1,
+      "benchmarkSdvSentiment": 0.95,
+      "capabilityNarrativeDisconnect": "Magna's 'Creator' archetype and 'shaping the future' narrative are not translating into a dominant position in the critical SDV space. While its capabilities are strong, the narrative is being overshadowed by brands like Bosch and Aptiv, which have more focused and authoritative messaging.",
+      "urgentCatchUpRequirements": [
+        "Develop a more specific and tangible SDV narrative, moving beyond 'shaping the future' to 'defining the core architecture of the future vehicle.'",
+        "Highlight specific, breakthrough SDV solutions and partnerships in a way that is not currently being done.",
+        "Increase sentiment and instance count for SDV-related terms to match leaders like Bosch and Aptiv."
+      ],
+      "specificActionItems": [
+        "Create dedicated SDV content (case studies, white papers) that explicitly positions Magna as a leader, using a confident, high-ratio tone.",
+        "Feature high-profile partnerships where Magna's SDV capabilities are showcased as the key enabler.",
+        "Train all spokespeople to use a consistent, authoritative SDV narrative."
+      ]
+    },
+    "driverCorrelationAnalyzer": {
+      "predictiveDrivers": [
+        "**Software-Defined Vehicles:** The highest correlation with future success. Brands with a strong SDV narrative (Bosch, Aptiv) are seen as leaders in overall industry transformation.",
+        "**Electrification & E-Mobility:** A core driver of success, but increasingly seen as a baseline. Leadership in this area is expected, not a unique differentiator anymore.",
+        "**Digital Transformation:** A strong correlation with internal health and operational efficiency, which underpins a brand's ability to innovate externally."
+      ],
+      "driverInterdependenciesMatrix": {
+        "sdv_to_connectivity": "High - SDV platforms are the foundation for new connectivity solutions.",
+        "electrification_to_sustainability": "High - Electrification is the primary path to achieving sustainability goals.",
+        "adas_to_sdv": "High - ADAS features are increasingly becoming software-defined functions."
+      },
+      "magnaPortfolioBalanceAssessment": "Magna has a strong portfolio, leading in Electrification and ranking well in ADAS and Connectivity. However, its lower ranking in the critical SDV space creates an imbalance. While it's performing well in the 'legacy-critical' drivers, it's lagging behind the leaders in the 'future-critical' SDV driver, which is a major strategic vulnerability."
+    },
+    "competitiveAdvantageTracker": {
+      "magnaLeads": [
+        {
+          "driver": "Electrification",
+          "leader": "Magna International",
+          "distanceToLeader": "N/A",
+          "color": "#8FFF00"
+        }
+      ],
+      "magnaLags": [
+        {
+          "driver": "Software-Defined Vehicles",
+          "leader": "APTIV",
+          "distanceToLeader": "2 ranks below leader, 140 fewer instances",
+          "catchupInvestmentRequired": "High",
+          "timeToParity": "12-18 months",
+          "color": "#DA6E44"
+        },
+        {
+          "driver": "ADAS",
+          "leader": "CONTINENTAL",
+          "distanceToLeader": "3 ranks below leader, 230 fewer instances",
+          "catchupInvestmentRequired": "Medium",
+          "timeToParity": "6-12 months",
+          "color": "#DA6E44"
+        }
+      ]
+    },
+    "driverEvolutionPredictor": {
+      "risingImportanceDrivers": [
+        "**Software-Defined Vehicles (SDV):** Rapidly becoming the central organizing principle for the entire industry. This is the new battleground.",
+        "**Sustainability & Environment:** Moving from a secondary concern to a core strategic pillar and a key differentiator for most brands.",
+        "**Smart Manufacturing:** Increasingly being mentioned as a way to achieve efficiency and responsiveness."
+      ],
+      "decliningRelevanceDrivers": [
+        "**Lightweighting:** While still important, it's becoming a 'table stakes' requirement rather than a primary point of innovation narrative. It is subsumed by the larger 'sustainability' driver.",
+        "**Traditional Safety Systems:** Moving from a mechanical to a software-defined function (part of ADAS). The narrative focus is shifting from 'components' to 'intelligent systems'."
+      ],
+      "magnaAlignmentWithFuture": "Magna is well-positioned with its leadership in Electrification, but its lag in SDV is a major misalignment with the future direction of the industry. The primary strategic pivot should be to elevate SDV to the same level of narrative importance and communication dominance as its electrification story."
+    }
+  },
+  "rechartsVisualizations": {
+    "radarChartDrivers": [
+      {
+        "brand": "APTIV",
+        "electrification": 0.88,
+        "adas": 0.92,
+        "sdv": 0.94,
+        "connectivity": 0.85,
+        "sustainability": 0.78,
+        "digitalTransformation": 0.9
+      },
+      {
+        "brand": "BOSCH MOBILITY",
+        "electrification": 0.85,
+        "adas": 0.91,
+        "sdv": 0.95,
+        "connectivity": 0.88,
+        "sustainability": 0.93,
+        "digitalTransformation": 0.92
+      },
+      {
+        "brand": "CONTINENTAL",
+        "electrification": 0.82,
+        "adas": 0.94,
+        "sdv": 0.85,
+        "connectivity": 0.91,
+        "sustainability": 0.89,
+        "digitalTransformation": 0.87
+      },
+      {
+        "brand": "DENSO",
+        "electrification": 0.8,
+        "adas": 0.87,
+        "sdv": 0.86,
+        "connectivity": 0.82,
+        "sustainability": 0.91,
+        "digitalTransformation": 0.85
+      },
+      {
+        "brand": "FORVIA HELLA",
+        "electrification": 0.75,
+        "adas": 0.81,
+        "sdv": 0.8,
+        "connectivity": 0.78,
+        "sustainability": 0.85,
+        "digitalTransformation": 0.81
+      },
+      {
+        "brand": "GENTEX",
+        "electrification": 0.65,
+        "adas": 0.8,
+        "sdv": 0.75,
+        "connectivity": 0.78,
+        "sustainability": 0.75,
+        "digitalTransformation": 0.79
+      },
+      {
+        "brand": "LEAR",
+        "electrification": 0.91,
+        "adas": 0.79,
+        "sdv": 0.83,
+        "connectivity": 0.8,
+        "sustainability": 0.94,
+        "digitalTransformation": 0.83
+      },
+      {
+        "brand": "MAGNA INTERNATIONAL",
+        "electrification": 0.95,
+        "adas": 0.89,
+        "sdv": 0.88,
+        "connectivity": 0.9,
+        "sustainability": 0.75,
+        "digitalTransformation": 0.81,
+        "color": "#E22E2F"
+      },
+      {
+        "brand": "VALEO",
+        "electrification": 0.78,
+        "adas": 0.75,
+        "sdv": 0.77,
+        "connectivity": 0.72,
+        "sustainability": 0.72,
+        "digitalTransformation": 0.75
+      },
+      {
+        "brand": "ZF",
+        "electrification": 0.86,
+        "adas": 0.7,
+        "sdv": 0.65,
+        "connectivity": 0.68,
+        "sustainability": 0.7,
+        "digitalTransformation": 0.71
+      }
+    ],
+    "barchartRankings": [
+      {
+        "brand": "APTIV",
+        "electrification": 3,
+        "adas": 2,
+        "sdv": 1,
+        "connectivity": 4,
+        "sustainability": 6,
+        "digitalTransformation": 2
+      },
+      {
+        "brand": "BOSCH MOBILITY",
+        "electrification": 4,
+        "adas": 3,
+        "sdv": 2,
+        "connectivity": 3,
+        "sustainability": 2,
+        "digitalTransformation": 1
+      },
+      {
+        "brand": "CONTINENTAL",
+        "electrification": 5,
+        "adas": 1,
+        "sdv": 4,
+        "connectivity": 1,
+        "sustainability": 4,
+        "digitalTransformation": 3
+      },
+      {
+        "brand": "DENSO",
+        "electrification": 6,
+        "adas": 5,
+        "sdv": 5,
+        "connectivity": 5,
+        "sustainability": 3,
+        "digitalTransformation": 4
+      },
+      {
+        "brand": "FORVIA HELLA",
+        "electrification": 7,
+        "adas": 6,
+        "sdv": 6,
+        "connectivity": 6,
+        "sustainability": 5,
+        "digitalTransformation": 5
+      },
+      {
+        "brand": "GENTEX",
+        "electrification": 9,
+        "adas": 7,
+        "sdv": 8,
+        "connectivity": 8,
+        "sustainability": 8,
+        "digitalTransformation": 8
+      },
+      {
+        "brand": "LEAR",
+        "electrification": 2,
+        "adas": 8,
+        "sdv": 7,
+        "connectivity": 7,
+        "sustainability": 1,
+        "digitalTransformation": 6
+      },
+      {
+        "brand": "MAGNA INTERNATIONAL",
+        "electrification": 1,
+        "adas": 4,
+        "sdv": 3,
+        "connectivity": 2,
+        "sustainability": 7,
+        "digitalTransformation": 7,
+        "color": "#E22E2F"
+      },
+      {
+        "brand": "VALEO",
+        "electrification": 8,
+        "adas": 9,
+        "sdv": 9,
+        "connectivity": 9,
+        "sustainability": 9,
+        "digitalTransformation": 9
+      },
+      {
+        "brand": "ZF",
+        "electrification": 10,
+        "adas": 10,
+        "sdv": 10,
+        "connectivity": 10,
+        "sustainability": 10,
+        "digitalTransformation": 10
+      }
+    ]
+  }
+}

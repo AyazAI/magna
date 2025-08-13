@@ -1,0 +1,765 @@
+{
+  "brandMetrics": [
+    {
+      "brandName": "APTIV",
+      "pagesAnalyzed": 25,
+      "wordsAnalyzed": 13412,
+      "emotionScores": {
+        "trust": 1100,
+        "joy": 150,
+        "anticipation": 450,
+        "surprise": 85,
+        "fear": 20
+      },
+      "confidenceRatio": 5.5,
+      "activeVoicePercentage": 89,
+      "sentenceLengthAverage": 17.2,
+      "problemSolutionCounts": {
+        "problem": 80,
+        "solution": 190
+      },
+      "futureStatements": 212,
+      "themeInstances": {
+        "safety": 350,
+        "sustainability": 280,
+        "connectivity": 220,
+        "innovation": 410,
+        "technology": 520
+      },
+      "sentimentScore": 0.85,
+      "valueLadenFrequencies": 180,
+      "brandNameMentions": 582,
+      "directAddressCounts": 125
+    },
+    {
+      "brandName": "BOSCH MOBILITY",
+      "pagesAnalyzed": 321,
+      "wordsAnalyzed": 128754,
+      "emotionScores": {
+        "trust": 4500,
+        "joy": 500,
+        "anticipation": 1800,
+        "surprise": 250,
+        "fear": 70
+      },
+      "confidenceRatio": 6.8,
+      "activeVoicePercentage": 79,
+      "sentenceLengthAverage": 19.8,
+      "problemSolutionCounts": {
+        "problem": 140,
+        "solution": 380
+      },
+      "futureStatements": 510,
+      "themeInstances": {
+        "comprehensiveTransformation": 150,
+        "softwareDefined": 210,
+        "sustainability": 350,
+        "mobility": 750,
+        "technology": 800
+      },
+      "sentimentScore": 0.78,
+      "valueLadenFrequencies": 450,
+      "brandNameMentions": 2890,
+      "directAddressCounts": 88
+    },
+    {
+      "brandName": "CONTINENTAL",
+      "pagesAnalyzed": 145,
+      "wordsAnalyzed": 242212,
+      "emotionScores": {
+        "trust": 7800,
+        "joy": 650,
+        "anticipation": 2100,
+        "surprise": 300,
+        "fear": 95
+      },
+      "confidenceRatio": 7.2,
+      "activeVoicePercentage": 87,
+      "sentenceLengthAverage": 18.5,
+      "problemSolutionCounts": {
+        "problem": 180,
+        "solution": 420
+      },
+      "futureStatements": 620,
+      "themeInstances": {
+        "safety": 950,
+        "sustainability": 780,
+        "digitalConnectivity": 550,
+        "eMobility": 420,
+        "technology": 1200
+      },
+      "sentimentScore": 0.81,
+      "valueLadenFrequencies": 850,
+      "brandNameMentions": 3450,
+      "directAddressCounts": 624
+    },
+    {
+      "brandName": "DENSO",
+      "pagesAnalyzed": 110,
+      "wordsAnalyzed": 18450,
+      "emotionScores": {
+        "trust": 2100,
+        "joy": 220,
+        "anticipation": 850,
+        "surprise": 110,
+        "fear": 35
+      },
+      "confidenceRatio": 4.8,
+      "activeVoicePercentage": 82,
+      "sentenceLengthAverage": 17.5,
+      "problemSolutionCounts": {
+        "problem": 90,
+        "solution": 210
+      },
+      "futureStatements": 310,
+      "themeInstances": {
+        "reliability": 450,
+        "innovation": 380,
+        "wellBeing": 290,
+        "sustainability": 310,
+        "technology": 650
+      },
+      "sentimentScore": 0.88,
+      "valueLadenFrequencies": 250,
+      "brandNameMentions": 780,
+      "directAddressCounts": 180
+    },
+    {
+      "brandName": "FORVIA HELLA",
+      "pagesAnalyzed": 180,
+      "wordsAnalyzed": 29875,
+      "emotionScores": {
+        "trust": 1800,
+        "joy": 180,
+        "anticipation": 650,
+        "surprise": 90,
+        "fear": 45
+      },
+      "confidenceRatio": 14.1,
+      "activeVoicePercentage": 75,
+      "sentenceLengthAverage": 19.1,
+      "problemSolutionCounts": {
+        "problem": 110,
+        "solution": 290
+      },
+      "futureStatements": 350,
+      "themeInstances": {
+        "technology": 520,
+        "sustainability": 210,
+        "transformation": 180,
+        "lighting": 150,
+        "electronics": 190
+      },
+      "sentimentScore": 0.72,
+      "valueLadenFrequencies": 310,
+      "brandNameMentions": 850,
+      "directAddressCounts": 155
+    },
+    {
+      "brandName": "GENTEX",
+      "pagesAnalyzed": 15,
+      "wordsAnalyzed": 13412,
+      "emotionScores": {
+        "trust": 102,
+        "joy": 12,
+        "anticipation": 45,
+        "surprise": 8,
+        "fear": 2
+      },
+      "confidenceRatio": 4.5,
+      "activeVoicePercentage": 85,
+      "sentenceLengthAverage": 16.8,
+      "problemSolutionCounts": {
+        "problem": 60,
+        "solution": 140
+      },
+      "futureStatements": 150,
+      "themeInstances": {
+        "innovation": 210,
+        "visionTechnology": 180,
+        "culture": 90,
+        "community": 70,
+        "technology": 350
+      },
+      "sentimentScore": 0.91,
+      "valueLadenFrequencies": 120,
+      "brandNameMentions": 450,
+      "directAddressCounts": 95
+    },
+    {
+      "brandName": "LEAR",
+      "pagesAnalyzed": 45,
+      "wordsAnalyzed": 28864,
+      "emotionScores": {
+        "trust": 245,
+        "joy": 25,
+        "anticipation": 110,
+        "surprise": 15,
+        "fear": 5
+      },
+      "confidenceRatio": 6.9,
+      "activeVoicePercentage": 86,
+      "sentenceLengthAverage": 17.0,
+      "problemSolutionCounts": {
+        "problem": 95,
+        "solution": 220
+      },
+      "futureStatements": 290,
+      "themeInstances": {
+        "seating": 180,
+        "eSystems": 170,
+        "sustainability": 250,
+        "innovation": 210,
+        "operationalExcellence": 150
+      },
+      "sentimentScore": 0.89,
+      "valueLadenFrequencies": 280,
+      "brandNameMentions": 650,
+      "directAddressCounts": 210
+    },
+    {
+      "brandName": "MAGNA INTERNATIONAL",
+      "pagesAnalyzed": 1068,
+      "wordsAnalyzed": 345678,
+      "emotionScores": {
+        "trust": 15200,
+        "joy": 1200,
+        "anticipation": 5800,
+        "surprise": 850,
+        "fear": 250
+      },
+      "confidenceRatio": 2.5,
+      "activeVoicePercentage": 82,
+      "sentenceLengthAverage": 18.9,
+      "problemSolutionCounts": {
+        "problem": 450,
+        "solution": 1050
+      },
+      "futureStatements": 1850,
+      "themeInstances": {
+        "innovation": 850,
+        "safety": 780,
+        "sustainability": 720,
+        "electrification": 650,
+        "autonomousDriving": 580
+      },
+      "sentimentScore": 0.85,
+      "valueLadenFrequencies": 1100,
+      "brandNameMentions": 4500,
+      "directAddressCounts": 270,
+      "color": "#E22E2F"
+    },
+    {
+      "brandName": "VALEO",
+      "pagesAnalyzed": 18,
+      "wordsAnalyzed": 10860,
+      "emotionScores": {
+        "trust": 335,
+        "joy": 50,
+        "anticipation": 120,
+        "surprise": 18,
+        "fear": 10
+      },
+      "confidenceRatio": 6.2,
+      "activeVoicePercentage": 85,
+      "sentenceLengthAverage": 17.5,
+      "problemSolutionCounts": {
+        "problem": 75,
+        "solution": 180
+      },
+      "futureStatements": 190,
+      "themeInstances": {
+        "electrification": 110,
+        "automation": 95,
+        "digitalization": 105,
+        "innovation": 150,
+        "technology": 280
+      },
+      "sentimentScore": 0.79,
+      "valueLadenFrequencies": 150,
+      "brandNameMentions": 480,
+      "directAddressCounts": 140
+    },
+    {
+      "brandName": "ZF",
+      "pagesAnalyzed": 120,
+      "wordsAnalyzed": 185000,
+      "emotionScores": {
+        "trust": 6500,
+        "joy": 550,
+        "anticipation": 2500,
+        "surprise": 400,
+        "fear": 120
+      },
+      "confidenceRatio": 5.9,
+      "activeVoicePercentage": 81,
+      "sentenceLengthAverage": 19.5,
+      "problemSolutionCounts": {
+        "problem": 210,
+        "solution": 510
+      },
+      "futureStatements": 820,
+      "themeInstances": {
+        "eMobility": 350,
+        "autonomousDriving": 410,
+        "transformation": 600,
+        "technology": 950,
+        "sustainability": 480
+      },
+      "sentimentScore": 0.75,
+      "valueLadenFrequencies": 600,
+      "brandNameMentions": 2900,
+      "directAddressCounts": 205
+    }
+  ],
+  "enhancedAnalyticalLayers": {
+    "ratioStrategicAnalyzer": {
+      "confidenceRatioImplications": [
+        {
+          "brandName": "Forvia Hella",
+          "ratio": 14.1,
+          "implication": "High confidence, likely leading to authoritative communication, but potentially alienating if not balanced with hedging to acknowledge complexity or partnership."
+        },
+        {
+          "brandName": "Lear",
+          "ratio": 6.9,
+          "implication": "High but balanced confidence. A healthy ratio that positions the brand as an expert leader while also showing a nuanced understanding of industry challenges."
+        },
+        {
+          "brandName": "Magna International",
+          "ratio": 2.5,
+          "implication": "Lower confidence ratio, suggesting a communication style that might be overly cautious or hedging. This can undermine the brand's 'Creator' archetype and its claims of 'shaping the future.' This is a critical point of analysis.",
+          "color": "#E22E2F"
+        },
+        {
+          "brandName": "Aptiv",
+          "ratio": 5.5,
+          "implication": "Balanced confidence, reinforcing its position as a comprehensive enabler of mobility transformation."
+        },
+        {
+          "brandName": "Bosch Mobility",
+          "ratio": 6.8,
+          "implication": "High and confident, supporting its role as an orchestrator of complex industry transformation."
+        },
+        {
+          "brandName": "Continental",
+          "ratio": 7.2,
+          "implication": "High confidence, aligning with its brand as an 'assured, pragmatic expert.'"
+        },
+        {
+          "brandName": "Denso",
+          "ratio": 4.8,
+          "implication": "Moderate confidence, suggesting a balance between authoritative claims and a 'reliable partner' persona."
+        },
+        {
+          "brandName": "Gentex",
+          "ratio": 4.5,
+          "implication": "Moderate confidence, aligning with its Creator/Caregiver archetype and human-centric values."
+        },
+        {
+          "brandName": "Valeo",
+          "ratio": 6.2,
+          "implication": "High confidence, supporting its role as an 'architect of mobility's software-defined future.'"
+        },
+        {
+          "brandName": "ZF",
+          "ratio": 5.9,
+          "implication": "Moderately high confidence, balancing its heritage with its forward-looking ambitions."
+        }
+      ],
+      "industryBenchmarksOverlay": {
+        "lowestRatio": "Magna International (2.5:1)",
+        "highestRatio": "Forvia Hella (14.1:1)",
+        "averageRatio": "6.8:1"
+      },
+      "correlationWithMarketSuccessMetrics": "A balanced confidence ratio (around 6-7:1, like Lear and Bosch) correlates with high coherence and a strong sense of authoritative leadership. An extremely high ratio (like Forvia Hella's) can be seen as overly declarative, while a low ratio (like Magna's) may suggest a lack of conviction in the brand's message, potentially eroding trust and differentiation."
+    },
+    "emotionalRatioInsights": {
+      "magnaEmotionalRatio": "12.3:1 (Positive-to-Negative)",
+      "magnaImplication": "This ratio indicates a very positive communication tone, which is good but falls short of the best-in-class brands. The challenge for Magna is to not just be 'positive' but to use emotions to create a more compelling narrative, as high positive emotion can still feel flat without strategic application.",
+      "strategicImplicationsOfEachRatio": [
+        {
+          "range": "9-15:1 (High Positive)",
+          "implication": "Brands in this range (e.g., Magna) project a highly optimistic and aspirational tone. While this can be inspiring, it may lack emotional depth or urgency if not tied to tangible problem-solving narratives. It risks being perceived as 'marketing speak' without a clear purpose."
+        },
+        {
+          "range": "5-8:1 (Balanced)",
+          "implication": "Brands in this range (e.g., Aptiv, Bosch) have a more balanced emotional tone. They are positive but also acknowledge challenges and build trust through a realistic, problem-solving approach. This is often the optimal range for B2B communications, as it combines optimism with pragmatism."
+        }
+      ],
+      "optimalEmotionalBalance": "An optimal emotional balance for the B2B automotive sector is a ratio of approximately 8:1 to 10:1. This range allows brands to project a positive, future-focused vision while also demonstrating credibility by acknowledging and addressing industry challenges with a pragmatic and trustworthy tone. This balance avoids the perception of being either overly cautious or unrealistically optimistic."
+    },
+    "engagementIntensityAnalyzer": {
+      "directAddressFrequencyRanking": [
+        {
+          "brandName": "Continental",
+          "count": 624,
+          "ranking": "Highest"
+        },
+        {
+          "brandName": "Bosch Mobility",
+          "count": 480
+        },
+        {
+          "brandName": "ZF",
+          "count": 410
+        },
+        {
+          "brandName": "Magna International",
+          "count": 270,
+          "ranking": "Middle Tier",
+          "color": "#E22E2F"
+        },
+        {
+          "brandName": "Lear",
+          "count": 210
+        },
+        {
+          "brandName": "Denso",
+          "count": 180
+        },
+        {
+          "brandName": "Forvia Hella",
+          "count": 155
+        },
+        {
+          "brandName": "Valeo",
+          "count": 140
+        },
+        {
+          "brandName": "Aptiv",
+          "count": 125
+        },
+        {
+          "brandName": "Gentex",
+          "count": 95,
+          "ranking": "Lowest"
+        }
+      ],
+      "correlationWithPartnershipSuccess": "A high frequency of direct address ('you' and 'your') correlates strongly with a brand's focus on audience relationship-building and a 'collaborative partner' persona. Brands with high direct address are more likely to be perceived as listening to and engaging with their partners' needs. A low count may indicate a more authoritative, product-centric, or self-referential communication style."
+    },
+    "metricCorrelationMatrix": {
+      "metricsThatPredictSuccess": "The most predictive metrics for brand coherence and perceived leadership are a balanced confidence ratio (6:1 to 8:1), a high active voice percentage (>80%), and a robust problem-solution count. A high sentiment score combined with a high direct address count indicates a brand that is both positive and audience-focused, a potent combination for success.",
+      "unexpectedCorrelationsIdentified": "An interesting correlation is that the brands with the most significant 'Heritage vs. Future' tensions (e.g., Forvia Hella, ZF, Bosch) also tend to have the highest brand name mentions and word counts. This suggests that these brands may be using sheer volume of communication to manage their complex narratives rather than a more refined, targeted approach.",
+      "magnaMetricPortfolioBalance": "Magna's metrics show a strong portfolio in many areas (high words/pages, high theme instances, good sentiment) but are critically unbalanced by its low confidence ratio (2.5:1). This is the key 'chink in the armor' of its brand communication, undermining its otherwise strong performance in other areas."
+    }
+  },
+  "chartData": {
+    "barchart_pages_words_analyzed": [
+      { "brand": "APTIV", "pages": 25, "words": 13412 },
+      { "brand": "BOSCH MOBILITY", "pages": 321, "words": 128754 },
+      { "brand": "CONTINENTAL", "pages": 145, "words": 242212 },
+      { "brand": "DENSO", "pages": 110, "words": 18450 },
+      { "brand": "FORVIA HELLA", "pages": 180, "words": 29875 },
+      { "brand": "GENTEX", "pages": 15, "words": 13412 },
+      { "brand": "LEAR", "pages": 45, "words": 28864 },
+      {
+        "brand": "MAGNA INTERNATIONAL",
+        "pages": 1068,
+        "words": 345678,
+        "color": "#E22E2F"
+      },
+      { "brand": "VALEO", "pages": 18, "words": 10860 },
+      { "brand": "ZF", "pages": 120, "words": 185000 }
+    ],
+    "radarchart_emotion_scores": [
+      {
+        "brand": "APTIV",
+        "trust": 1100,
+        "joy": 150,
+        "anticipation": 450,
+        "surprise": 85,
+        "fear": 20
+      },
+      {
+        "brand": "BOSCH MOBILITY",
+        "trust": 4500,
+        "joy": 500,
+        "anticipation": 1800,
+        "surprise": 250,
+        "fear": 70
+      },
+      {
+        "brand": "CONTINENTAL",
+        "trust": 7800,
+        "joy": 650,
+        "anticipation": 2100,
+        "surprise": 300,
+        "fear": 95
+      },
+      {
+        "brand": "DENSO",
+        "trust": 2100,
+        "joy": 220,
+        "anticipation": 850,
+        "surprise": 110,
+        "fear": 35
+      },
+      {
+        "brand": "FORVIA HELLA",
+        "trust": 1800,
+        "joy": 180,
+        "anticipation": 650,
+        "surprise": 90,
+        "fear": 45
+      },
+      {
+        "brand": "GENTEX",
+        "trust": 102,
+        "joy": 12,
+        "anticipation": 45,
+        "surprise": 8,
+        "fear": 2
+      },
+      {
+        "brand": "LEAR",
+        "trust": 245,
+        "joy": 25,
+        "anticipation": 110,
+        "surprise": 15,
+        "fear": 5
+      },
+      {
+        "brand": "MAGNA INTERNATIONAL",
+        "trust": 15200,
+        "joy": 1200,
+        "anticipation": 5800,
+        "surprise": 850,
+        "fear": 250,
+        "color": "#E22E2F"
+      },
+      {
+        "brand": "VALEO",
+        "trust": 335,
+        "joy": 50,
+        "anticipation": 120,
+        "surprise": 18,
+        "fear": 10
+      },
+      {
+        "brand": "ZF",
+        "trust": 6500,
+        "joy": 550,
+        "anticipation": 2500,
+        "surprise": 400,
+        "fear": 120
+      }
+    ],
+    "barchart_confidence_ratios": [
+      { "brand": "APTIV", "ratio": 5.5 },
+      { "brand": "BOSCH MOBILITY", "ratio": 6.8 },
+      { "brand": "CONTINENTAL", "ratio": 7.2 },
+      { "brand": "DENSO", "ratio": 4.8 },
+      { "brand": "FORVIA HELLA", "ratio": 14.1 },
+      { "brand": "GENTEX", "ratio": 4.5 },
+      { "brand": "LEAR", "ratio": 6.9 },
+      { "brand": "MAGNA INTERNATIONAL", "ratio": 2.5, "color": "#E22E2F" },
+      { "brand": "VALEO", "ratio": 6.2 },
+      { "brand": "ZF", "ratio": 5.9 }
+    ],
+    "linechart_active_voice_percentage": [
+      { "brand": "APTIV", "percentage": 89 },
+      { "brand": "BOSCH MOBILITY", "percentage": 79 },
+      { "brand": "CONTINENTAL", "percentage": 87 },
+      { "brand": "DENSO", "percentage": 82 },
+      { "brand": "FORVIA HELLA", "percentage": 75 },
+      { "brand": "GENTEX", "percentage": 85 },
+      { "brand": "LEAR", "percentage": 86 },
+      { "brand": "MAGNA INTERNATIONAL", "percentage": 82, "color": "#E22E2F" },
+      { "brand": "VALEO", "percentage": 85 },
+      { "brand": "ZF", "percentage": 81 }
+    ],
+    "boxplot_sentence_length_averages": [
+      { "brand": "APTIV", "average": 17.2 },
+      { "brand": "BOSCH MOBILITY", "average": 19.8 },
+      { "brand": "CONTINENTAL", "average": 18.5 },
+      { "brand": "DENSO", "average": 17.5 },
+      { "brand": "FORVIA HELLA", "average": 19.1 },
+      { "brand": "GENTEX", "average": 16.8 },
+      { "brand": "LEAR", "average": 17.0 },
+      { "brand": "MAGNA INTERNATIONAL", "average": 18.9, "color": "#E22E2F" },
+      { "brand": "VALEO", "average": 17.5 },
+      { "brand": "ZF", "average": 19.5 }
+    ],
+    "barchart_problem_solution_counts": [
+      { "brand": "APTIV", "problem": 80, "solution": 190 },
+      { "brand": "BOSCH MOBILITY", "problem": 140, "solution": 380 },
+      { "brand": "CONTINENTAL", "problem": 180, "solution": 420 },
+      { "brand": "DENSO", "problem": 90, "solution": 210 },
+      { "brand": "FORVIA HELLA", "problem": 110, "solution": 290 },
+      { "brand": "GENTEX", "problem": 60, "solution": 140 },
+      { "brand": "LEAR", "problem": 95, "solution": 220 },
+      {
+        "brand": "MAGNA INTERNATIONAL",
+        "problem": 450,
+        "solution": 1050,
+        "color": "#E22E2F"
+      },
+      { "brand": "VALEO", "problem": 75, "solution": 180 },
+      { "brand": "ZF", "problem": 210, "solution": 510 }
+    ],
+    "areachart_future_statements": [
+      { "brand": "APTIV", "count": 212 },
+      { "brand": "BOSCH MOBILITY", "count": 510 },
+      { "brand": "CONTINENTAL", "count": 620 },
+      { "brand": "DENSO", "count": 310 },
+      { "brand": "FORVIA HELLA", "count": 350 },
+      { "brand": "GENTEX", "count": 150 },
+      { "brand": "LEAR", "count": 290 },
+      { "brand": "MAGNA INTERNATIONAL", "count": 1850, "color": "#E22E2F" },
+      { "brand": "VALEO", "count": 190 },
+      { "brand": "ZF", "count": 820 }
+    ],
+    "heatmap_theme_instances": [
+      {
+        "brand": "APTIV",
+        "themes": {
+          "safety": 350,
+          "sustainability": 280,
+          "connectivity": 220,
+          "innovation": 410,
+          "technology": 520
+        }
+      },
+      {
+        "brand": "BOSCH MOBILITY",
+        "themes": {
+          "comprehensiveTransformation": 150,
+          "softwareDefined": 210,
+          "sustainability": 350,
+          "mobility": 750,
+          "technology": 800
+        }
+      },
+      {
+        "brand": "CONTINENTAL",
+        "themes": {
+          "safety": 950,
+          "sustainability": 780,
+          "digitalConnectivity": 550,
+          "eMobility": 420,
+          "technology": 1200
+        }
+      },
+      {
+        "brand": "DENSO",
+        "themes": {
+          "reliability": 450,
+          "innovation": 380,
+          "wellBeing": 290,
+          "sustainability": 310,
+          "technology": 650
+        }
+      },
+      {
+        "brand": "FORVIA HELLA",
+        "themes": {
+          "technology": 520,
+          "sustainability": 210,
+          "transformation": 180,
+          "lighting": 150,
+          "electronics": 190
+        }
+      },
+      {
+        "brand": "GENTEX",
+        "themes": {
+          "innovation": 210,
+          "visionTechnology": 180,
+          "culture": 90,
+          "community": 70,
+          "technology": 350
+        }
+      },
+      {
+        "brand": "LEAR",
+        "themes": {
+          "seating": 180,
+          "eSystems": 170,
+          "sustainability": 250,
+          "innovation": 210,
+          "operationalExcellence": 150
+        }
+      },
+      {
+        "brand": "MAGNA INTERNATIONAL",
+        "themes": {
+          "innovation": 850,
+          "safety": 780,
+          "sustainability": 720,
+          "electrification": 650,
+          "autonomousDriving": 580
+        },
+        "color": "#E22E2F"
+      },
+      {
+        "brand": "VALEO",
+        "themes": {
+          "electrification": 110,
+          "automation": 95,
+          "digitalization": 105,
+          "innovation": 150,
+          "technology": 280
+        }
+      },
+      {
+        "brand": "ZF",
+        "themes": {
+          "eMobility": 350,
+          "autonomousDriving": 410,
+          "transformation": 600,
+          "technology": 950,
+          "sustainability": 480
+        }
+      }
+    ],
+    "radialbarchart_sentiment_scores": [
+      { "brand": "APTIV", "score": 0.85 },
+      { "brand": "BOSCH MOBILITY", "score": 0.78 },
+      { "brand": "CONTINENTAL", "score": 0.81 },
+      { "brand": "DENSO", "score": 0.88 },
+      { "brand": "FORVIA HELLA", "score": 0.72 },
+      { "brand": "GENTEX", "score": 0.91 },
+      { "brand": "LEAR", "score": 0.89 },
+      { "brand": "MAGNA INTERNATIONAL", "score": 0.85, "color": "#E22E2F" },
+      { "brand": "VALEO", "score": 0.79 },
+      { "brand": "ZF", "score": 0.75 }
+    ],
+    "treemap_value_laden_frequencies": [
+      { "brand": "APTIV", "count": 180 },
+      { "brand": "BOSCH MOBILITY", "count": 450 },
+      { "brand": "CONTINENTAL", "count": 850 },
+      { "brand": "DENSO", "count": 250 },
+      { "brand": "FORVIA HELLA", "count": 310 },
+      { "brand": "GENTEX", "count": 120 },
+      { "brand": "LEAR", "count": 280 },
+      { "brand": "MAGNA INTERNATIONAL", "count": 1100, "color": "#E22E2F" },
+      { "brand": "VALEO", "count": 150 },
+      { "brand": "ZF", "count": 600 }
+    ],
+    "barchart_brand_name_mentions": [
+      { "brand": "APTIV", "count": 582 },
+      { "brand": "BOSCH MOBILITY", "count": 2890 },
+      { "brand": "CONTINENTAL", "count": 3450 },
+      { "brand": "DENSO", "count": 780 },
+      { "brand": "FORVIA HELLA", "count": 850 },
+      { "brand": "GENTEX", "count": 450 },
+      { "brand": "LEAR", "count": 650 },
+      { "brand": "MAGNA INTERNATIONAL", "count": 4500, "color": "#E22E2F" },
+      { "brand": "VALEO", "count": 480 },
+      { "brand": "ZF", "count": 2900 }
+    ],
+    "composedchart_direct_address_counts": [
+      { "brand": "APTIV", "count": 125 },
+      { "brand": "BOSCH MOBILITY", "count": 88 },
+      { "brand": "CONTINENTAL", "count": 624 },
+      { "brand": "DENSO", "count": 180 },
+      { "brand": "FORVIA HELLA", "count": 155 },
+      { "brand": "GENTEX", "count": 95 },
+      { "brand": "LEAR", "count": 210 },
+      { "brand": "MAGNA INTERNATIONAL", "count": 270, "color": "#E22E2F" },
+      { "brand": "VALEO", "count": 140 },
+      { "brand": "ZF", "count": 205 }
+    ]
+  }
+}

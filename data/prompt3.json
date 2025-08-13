@@ -1,0 +1,852 @@
+{
+  "brandReports": [
+    {
+      "brandName": "APTIV",
+      "narrativeCoherenceScorecard": {
+        "alignmentScore": "7/10",
+        "tensions": [
+          {
+            "name": "Future vs. Present Delivery",
+            "description": "Strategic tension between its future-focused narrative and present-tense delivery claims.",
+            "severity": "Medium"
+          },
+          {
+            "name": "Technical Focus vs. Emotional Resonance",
+            "description": "Potential gaps in emotional resonance within its highly technical communications framework.",
+            "severity": "Low"
+          },
+          {
+            "name": "Breadth vs. Specialization",
+            "description": "Positioning as a comprehensive enabler could dilute specific technological leadership.",
+            "severity": "Medium"
+          }
+        ]
+      },
+      "audiencePersonaNetwork": {
+        "persona_1": {
+          "name": "The Technical Buyer",
+          "description": "Engineers and procurement managers seeking specific technological solutions for complex systems.",
+          "focus": ["Logos", "Problem-Solving", "Specifications"]
+        },
+        "persona_2": {
+          "name": "The Strategic Partner",
+          "description": "C-suite executives and business leaders looking for long-term partners in mobility transformation.",
+          "focus": ["Ethos", "Vision", "Ecosystem"]
+        },
+        "persona_3": {
+          "name": "The Future-Focused Investor",
+          "description": "Investors interested in the brand's role in emerging technologies like autonomous driving and sustainability.",
+          "focus": ["Vision", "Anticipation", "Growth"]
+        }
+      },
+      "portfolioArchitectureComparison": {
+        "architectureType": "Monolithic/Branded House",
+        "description": "APTIV uses a strong master brand ('APTIV') with a single, unified narrative that encompasses all its products and solutions. While specific product lines exist, they are all positioned under the central, unifying 'brain and nervous system' metaphor. The overall architecture is streamlined and focused on a singular identity."
+      },
+      "brandArchitectureAnalysis": {
+        "masterBrand": "APTIV",
+        "subBrands": "None explicitly mentioned as separate brands, but its solutions are categorized under a unified 'brain and nervous system' architecture.",
+        "brandRelationship": "Master brand driven."
+      },
+      "keyBusinessDriversPriorityMatrix": [
+        {
+          "driver": "Innovation Leadership",
+          "priority": "High",
+          "evidence": "Focus on 'brain' and 'nervous system' of vehicles, emphasis on software-defined solutions."
+        },
+        {
+          "driver": "Trust and Reliability",
+          "priority": "High",
+          "evidence": "Dominant trust-building tone, focus on safety and secure systems."
+        },
+        {
+          "driver": "Ecosystem Integration",
+          "priority": "Medium",
+          "evidence": "Claims about fostering connectivity and partnership within the industry."
+        }
+      ]
+    },
+    {
+      "brandName": "BOSCH MOBILITY",
+      "narrativeCoherenceScorecard": {
+        "alignmentScore": "6/10",
+        "tensions": [
+          {
+            "name": "Heritage vs. Digital Aspirations",
+            "description": "Tensions between its industrial heritage and future-focused digital aspirations.",
+            "severity": "High"
+          },
+          {
+            "name": "Breadth vs. Specialization",
+            "description": "Comprehensive scope can sometimes dilute the brand's differentiation in specific technology domains.",
+            "severity": "Medium"
+          },
+          {
+            "name": "Master vs. Sub-brand Cohesion",
+            "description": "The broad 'Mobility' brand needs to effectively integrate all its sub-brands and products.",
+            "severity": "Medium"
+          }
+        ]
+      },
+      "audiencePersonaNetwork": {
+        "persona_1": {
+          "name": "The Industrial Partner",
+          "description": "OEMs and Tier 1 suppliers seeking a reliable, established partner for comprehensive automotive solutions.",
+          "focus": ["Ethos", "Legacy", "Reliability"]
+        },
+        "persona_2": {
+          "name": "The Future-Forward Technologist",
+          "description": "Engineers and developers focused on software-defined and digital mobility solutions.",
+          "focus": ["Logos", "Innovation", "Ecosystem"]
+        },
+        "persona_3": {
+          "name": "The Sustainability Advocate",
+          "description": "Stakeholders and public interested in sustainable, green mobility solutions.",
+          "focus": ["Pathos", "Purpose", "Impact"]
+        }
+      },
+      "portfolioArchitectureComparison": {
+        "architectureType": "Branded House",
+        "description": "Bosch operates under a powerful master brand, 'Bosch Mobility', which unifies a vast portfolio of products and solutions. The focus is on orchestrating the entire mobility transformation, with all offerings positioned as part of this holistic vision. This architecture supports the Sage/Ruler archetypes by presenting a comprehensive, controlled solution."
+      },
+      "brandArchitectureAnalysis": {
+        "masterBrand": "Bosch Mobility",
+        "subBrands": "Numerous, but all are nested under the master brand's umbrella.",
+        "brandRelationship": "Master brand driven."
+      },
+      "keyBusinessDriversPriorityMatrix": [
+        {
+          "driver": "Comprehensive Solution Provider",
+          "priority": "High",
+          "evidence": "Claims of 'holistic' solutions and orchestrating the entire transformation."
+        },
+        {
+          "driver": "Bridging Hardware & Software",
+          "priority": "High",
+          "evidence": "Narrative focuses on bridging 'hardware legacy with software futures'."
+        },
+        {
+          "driver": "Market Leadership",
+          "priority": "High",
+          "evidence": "Declarative claims of technological leadership and market position."
+        }
+      ]
+    },
+    {
+      "brandName": "CONTINENTAL",
+      "narrativeCoherenceScorecard": {
+        "alignmentScore": "6.5/10",
+        "tensions": [
+          {
+            "name": "Audience Inconsistency",
+            "description": "Inconsistent integration of audience cues across communications, where direct address varies, potentially diluting relational focus.",
+            "severity": "Medium"
+          },
+          {
+            "name": "Portfolio Clarity",
+            "description": "An anomaly in one dataset segment referencing seating systems diverged from the dominant focus on tires, sensors, and e-mobility.",
+            "severity": "Low"
+          },
+          {
+            "name": "Emotional Engagement",
+            "description": "Gaps in emotional engagement relative to the highly technical nature of the communications.",
+            "severity": "Medium"
+          }
+        ]
+      },
+      "audiencePersonaNetwork": {
+        "persona_1": {
+          "name": "The Automotive Engineer",
+          "description": "A pragmatic expert seeking detailed specifications and proven reliability for components and systems.",
+          "focus": ["Logos", "Pragmatism", "Technical Detail"]
+        },
+        "persona_2": {
+          "name": "The Industry Partner",
+          "description": "Manufacturers and suppliers looking for a trusted partner in vehicle systems.",
+          "focus": ["Ethos", "Safety", "Trust"]
+        },
+        "persona_3": {
+          "name": "The Sustainability Buyer",
+          "description": "A customer focused on environmental impact and sustainable technologies in their purchasing decisions.",
+          "focus": ["Logos", "Sustainability", "Efficiency"]
+        }
+      },
+      "portfolioArchitectureComparison": {
+        "architectureType": "House of Brands",
+        "description": "Continental has a mix of a strong master brand and a portfolio of sub-brands, especially in tires. The brand architecture can be complex, with a core 'Continental' brand housing diverse technologies, but also specific branded product lines. The narrative often focuses on the overall 'Continental' brand while the underlying portfolio is highly diverse."
+      },
+      "brandArchitectureAnalysis": {
+        "masterBrand": "Continental",
+        "subBrands": "Varies by product line, with some specific brand names for tire lines.",
+        "brandRelationship": "Mixed, with a stronger master brand but also sub-brands."
+      },
+      "keyBusinessDriversPriorityMatrix": [
+        {
+          "driver": "Engineering Excellence",
+          "priority": "High",
+          "evidence": "Focus on technical precision, problem-solving through engineering."
+        },
+        {
+          "driver": "Safety & Sustainability",
+          "priority": "High",
+          "evidence": "Commitment to 'zero-accident mobility', focus on environmental impact."
+        },
+        {
+          "driver": "Digital Innovation",
+          "priority": "High",
+          "evidence": "Emphasis on advancing digital solutions and connected systems."
+        }
+      ]
+    },
+    {
+      "brandName": "DENSO",
+      "narrativeCoherenceScorecard": {
+        "alignmentScore": "6.8/10",
+        "tensions": [
+          {
+            "name": "Audience Inconsistency",
+            "description": "Inconsistent emphasis on audience segments, leading to a varying relational focus.",
+            "severity": "Medium"
+          },
+          {
+            "name": "Sentiment vs. Strategic Importance",
+            "description": "Varying sentiment across themes and underrepresented emotional appeals, despite strong strategic focus on well-being.",
+            "severity": "Medium"
+          },
+          {
+            "name": "Data Anomalies",
+            "description": "Occasional data anomalies in non-core areas like agriculture, which can confuse core messaging.",
+            "severity": "Low"
+          }
+        ]
+      },
+      "audiencePersonaNetwork": {
+        "persona_1": {
+          "name": "The OEM Executive",
+          "description": "A decision-maker seeking a stable, reliable partner for automotive systems and components.",
+          "focus": ["Ethos", "Dependability", "Partnership"]
+        },
+        "persona_2": {
+          "name": "The R&D Specialist",
+          "description": "An expert focused on advanced engineering and future-oriented innovations.",
+          "focus": ["Logos", "Technology", "Future"]
+        },
+        "persona_3": {
+          "name": "The Societal Stakeholder",
+          "description": "A group interested in the brand's contribution to broader societal well-being and environmental progress.",
+          "focus": ["Pathos", "Well-being", "Sustainability"]
+        }
+      },
+      "portfolioArchitectureComparison": {
+        "architectureType": "Branded House",
+        "description": "DENSO utilizes a Branded House model, where the main 'DENSO' brand is the central point of identity for all its automotive systems and components. The narrative of being a reliable partner and future-focused innovator is applied consistently across its portfolio, reinforcing the master brand's strength."
+      },
+      "brandArchitectureAnalysis": {
+        "masterBrand": "DENSO",
+        "subBrands": "None explicitly detailed in the report as separate brands.",
+        "brandRelationship": "Master brand driven."
+      },
+      "keyBusinessDriversPriorityMatrix": [
+        {
+          "driver": "Technological Reliability",
+          "priority": "High",
+          "evidence": "Dominant trust-building tone, focus on being a 'reliable partner' in automotive systems."
+        },
+        {
+          "driver": "Future Innovation",
+          "priority": "High",
+          "evidence": "Commitment to transforming transportation and a cohesive focus on future-oriented innovation."
+        },
+        {
+          "driver": "Societal Well-being",
+          "priority": "High",
+          "evidence": "Emphasis on contributions to safety, efficiency, and environmental progress."
+        }
+      ]
+    },
+    {
+      "brandName": "FORVIA HELLA",
+      "narrativeCoherenceScorecard": {
+        "alignmentScore": "6/10",
+        "tensions": [
+          {
+            "name": "Heritage vs. Future",
+            "description": "Tension between its 'heritage engineering' capabilities and its forward-looking 'transformation ambitions'.",
+            "severity": "High"
+          },
+          {
+            "name": "Product-Centricity vs. Narrative",
+            "description": "Dominant product-centric communication patterns create a narrative gap with its stated transformation ambitions.",
+            "severity": "High"
+          },
+          {
+            "name": "Audience Inconsistency",
+            "description": "The 'dual integrator' persona may confuse audiences if not clearly articulated.",
+            "severity": "Medium"
+          }
+        ]
+      },
+      "audiencePersonaNetwork": {
+        "persona_1": {
+          "name": "The Engineering Partner",
+          "description": "Technical specialists and engineers who value established expertise and product capabilities.",
+          "focus": ["Logos", "Precision", "Reliability"]
+        },
+        "persona_2": {
+          "name": "The Strategic Decision-Maker",
+          "description": "Executives focused on a supplier's role in future-proof technologies like sustainable and autonomous mobility.",
+          "focus": ["Ethos", "Innovation", "Partnership"]
+        },
+        "persona_3": {
+          "name": "The End User/Consumer",
+          "description": "While not the primary focus, the brand's 'supportive partner' persona has implications for the end-user's safety and well-being.",
+          "focus": ["Pathos", "Safety", "Support"]
+        }
+      },
+      "portfolioArchitectureComparison": {
+        "architectureType": "Endorsed Brand",
+        "description": "FORVIA HELLA represents an endorsed brand model, where the two companies (FORVIA and HELLA) have merged but maintain a dual identity. The narrative is a blend of HELLA's heritage and FORVIA's broader portfolio, with the 'FORVIA HELLA' brand serving as a unifying endorser. This architecture reflects the 'dual integrator' persona."
+      },
+      "brandArchitectureAnalysis": {
+        "masterBrand": "FORVIA HELLA",
+        "subBrands": "The report implies a unified 'FORVIA HELLA' brand, but the dual name suggests a structure that integrates two previously separate entities.",
+        "brandRelationship": "Endorsed, with a move toward a Branded House."
+      },
+      "keyBusinessDriversPriorityMatrix": [
+        {
+          "driver": "Technological Leadership",
+          "priority": "High",
+          "evidence": "Focus on lighting and electronics, with confident and authoritative communication."
+        },
+        {
+          "driver": "Transformation & Sustainability",
+          "priority": "High",
+          "evidence": "Stated ambitions for sustainable, autonomous, and software-defined mobility."
+        },
+        {
+          "driver": "Operational Trust",
+          "priority": "High",
+          "evidence": "Dominant trust-building tone underpinning all communications."
+        }
+      ]
+    },
+    {
+      "brandName": "GENTEX",
+      "narrativeCoherenceScorecard": {
+        "alignmentScore": "8/10",
+        "tensions": [
+          {
+            "name": "Heritage vs. Future",
+            "description": "A minor tension between its heritage manufacturing identity and its future-focused digital transformation aspirations.",
+            "severity": "Low"
+          },
+          {
+            "name": "Breadth vs. Specialization",
+            "description": "While a strength, its specialization in vision technology could be seen as a limitation compared to broader competitors.",
+            "severity": "Low"
+          }
+        ]
+      },
+      "audiencePersonaNetwork": {
+        "persona_1": {
+          "name": "The Visionary Innovator",
+          "description": "OEMs and engineers interested in pioneering vision technology and unique solutions.",
+          "focus": ["Creator", "Ingenuity", "Technology"]
+        },
+        "persona_2": {
+          "name": "The Employee/Internal Stakeholder",
+          "description": "A critical audience for Gentex, valued through the brand's strong human-centric and Caregiver focus.",
+          "focus": ["Caregiver", "Empowerment", "Culture"]
+        },
+        "persona_3": {
+          "name": "The Community Advocate",
+          "description": "External stakeholders who appreciate the brand's local community focus and societal well-being contributions.",
+          "focus": ["Caregiver", "Pathos", "Impact"]
+        }
+      },
+      "portfolioArchitectureComparison": {
+        "architectureType": "Branded House",
+        "description": "Gentex operates under a strong, unified 'Gentex' brand. All products and innovations, particularly in vision systems, are directly associated with the master brand. This architecture reinforces the brand's unique Creator/Caregiver identity by attributing all innovations and human-centric values to the core brand."
+      },
+      "brandArchitectureAnalysis": {
+        "masterBrand": "GENTEX",
+        "subBrands": "None explicitly mentioned. The focus is on the core 'Gentex' brand and its technology specialization.",
+        "brandRelationship": "Master brand driven."
+      },
+      "keyBusinessDriversPriorityMatrix": [
+        {
+          "driver": "Innovative Vision Technology",
+          "priority": "High",
+          "evidence": "Core product specialization and a Creator archetype."
+        },
+        {
+          "driver": "Employee & Community Focus",
+          "priority": "High",
+          "evidence": "Strong human-centric values and a Caregiver archetype."
+        },
+        {
+          "driver": "Digital Transformation",
+          "priority": "Medium",
+          "evidence": "Aspirations to move from a manufacturing heritage to a digital future."
+        }
+      ]
+    },
+    {
+      "brandName": "LEAR",
+      "narrativeCoherenceScorecard": {
+        "alignmentScore": "8.5/10",
+        "tensions": [
+          {
+            "name": "Communication Style vs. Values",
+            "description": "A tension between stated values of partnership and a communication style that is more declarative than collaborative.",
+            "severity": "Low"
+          },
+          {
+            "name": "Sentiment vs. Strategic Importance",
+            "description": "A high volume of sustainability messaging shows a lower sentiment than tech themes, suggesting a gap in narrative passion.",
+            "severity": "Low"
+          },
+          {
+            "name": "Heritage vs. Future",
+            "description": "A dual focus on physical manufacturing legacy and digital solutions, though this is managed with high coherence.",
+            "severity": "Low"
+          }
+        ]
+      },
+      "audiencePersonaNetwork": {
+        "persona_1": {
+          "name": "The OEM Buyer",
+          "description": "A professional seeking a proven, reliable supplier for seating and e-systems.",
+          "focus": ["Ethos", "Expertise", "Reliability"]
+        },
+        "persona_2": {
+          "name": "The Sustainability Officer",
+          "description": "A stakeholder focused on a supplier's environmental and social responsibility.",
+          "focus": ["Logos", "Sustainability", "Responsibility"]
+        },
+        "persona_3": {
+          "name": "The Financial Investor",
+          "description": "An investor focused on a stable, established leader with clear growth pillars.",
+          "focus": ["Ethos", "Performance", "Stability"]
+        }
+      },
+      "portfolioArchitectureComparison": {
+        "architectureType": "Branded House with Clear Pillars",
+        "description": "Lear employs a Branded House model that is highly effective due to its clear, two-pillar portfolio architecture: Seating and E-Systems. This simplicity and clarity makes the brand highly coherent and easy to understand. The core 'Lear' brand is the unifying element for both pillars."
+      },
+      "brandArchitectureAnalysis": {
+        "masterBrand": "LEAR",
+        "subBrands": "Two core pillars: Seating and E-Systems. These act as sub-categories under the main brand.",
+        "brandRelationship": "Master brand driven with clear product pillars."
+      },
+      "keyBusinessDriversPriorityMatrix": [
+        {
+          "driver": "Operational Excellence",
+          "priority": "High",
+          "evidence": "Strong focus on its two product pillars, with a pragmatic and confident tone."
+        },
+        {
+          "driver": "Sustainability & Innovation",
+          "priority": "High",
+          "evidence": "Explicitly stated values and a high volume of messaging around these themes."
+        },
+        {
+          "driver": "Established Leadership",
+          "priority": "High",
+          "evidence": "Projects authority and confidence as an expert leader in the automotive sector."
+        }
+      ]
+    },
+    {
+      "brandName": "MAGNA INTERNATIONAL",
+      "narrativeCoherenceScorecard": {
+        "alignmentScore": "7/10",
+        "tensions": [
+          {
+            "name": "Breadth vs. Specialization",
+            "description": "Strategic tension between the brand's broad portfolio messaging and the need for clearer differentiation in specific technology areas.",
+            "severity": "High"
+          },
+          {
+            "name": "Creator Archetype vs. Tangibility",
+            "description": "The brand's 'shaping the future' narrative is not always supported with tangible, specific examples of 'creation', making it less impactful than Gentex's.",
+            "severity": "Medium"
+          },
+          {
+            "name": "Internal vs. External Perception",
+            "description": "The brand's comprehensive capabilities may be better understood internally than they are clearly articulated to external stakeholders.",
+            "severity": "Medium"
+          }
+        ]
+      },
+      "audiencePersonaNetwork": {
+        "persona_1": {
+          "name": "The Strategic OEM Partner",
+          "description": "A high-level executive seeking a comprehensive technology provider to shape the future of their vehicles.",
+          "focus": ["Ethos", "Vision", "Partnership"]
+        },
+        "persona_2": {
+          "name": "The Technology Buyer",
+          "description": "An engineer or procurement manager focused on key technology areas like electrification and ADAS.",
+          "focus": ["Logos", "Specifications", "Solutions"]
+        },
+        "persona_3": {
+          "name": "The Financial Investor",
+          "description": "An investor interested in a diversified, yet future-focused, automotive technology company.",
+          "focus": ["Vision", "Growth", "Confidence"]
+        }
+      },
+      "portfolioArchitectureComparison": {
+        "architectureType": "Branded House",
+        "description": "Magna International uses a strong Branded House approach. The 'Magna' brand serves as the umbrella for a vast and diverse portfolio of products and solutions. The narrative of 'shaping the future of mobility' is intended to unify all these offerings under a single, cohesive identity. The challenge lies in making this broad narrative feel specific and differentiated for each part of the portfolio."
+      },
+      "brandArchitectureAnalysis": {
+        "masterBrand": "MAGNA INTERNATIONAL",
+        "subBrands": "Not explicitly detailed as separate brands, but the portfolio is vast and could be segmented into multiple business units or product lines.",
+        "brandRelationship": "Master brand driven."
+      },
+      "keyBusinessDriversPriorityMatrix": [
+        {
+          "driver": "Shaping Future Mobility",
+          "priority": "High",
+          "evidence": "Directly stated vision and core strategic theme of the brand."
+        },
+        {
+          "driver": "Comprehensive Solutions",
+          "priority": "High",
+          "evidence": "Positioned as a 'comprehensive automotive technology provider'."
+        },
+        {
+          "driver": "Electrification & Autonomous Driving",
+          "priority": "High",
+          "evidence": "Clear strategic emphasis and investment in these key technology areas."
+        },
+        {
+          "driver": "Innovation, Safety, Sustainability",
+          "priority": "High",
+          "evidence": "Core pillars of the brand's messaging."
+        }
+      ]
+    },
+    {
+      "brandName": "VALEO",
+      "narrativeCoherenceScorecard": {
+        "alignmentScore": "6/10",
+        "tensions": [
+          {
+            "name": "Revolutionary Narrative vs. Measured Tone",
+            "description": "Strategic tension between a revolutionary transformation narrative and a measured, safety-focused communication style.",
+            "severity": "High"
+          },
+          {
+            "name": "Breadth vs. Specialization",
+            "description": "Positioning as a broad 'architect' can dilute the impact of its specific technology pillars.",
+            "severity": "Medium"
+          }
+        ]
+      },
+      "audiencePersonaNetwork": {
+        "persona_1": {
+          "name": "The Automotive Architect",
+          "description": "High-level executives and engineers seeking a partner to build a software-defined future.",
+          "focus": ["Ethos", "Vision", "Transformation"]
+        },
+        "persona_2": {
+          "name": "The Technical Specialist",
+          "description": "Professionals focused on electrification, automation, and digitalization solutions.",
+          "focus": ["Logos", "Technology", "Solutions"]
+        },
+        "persona_3": {
+          "name": "The Safety Advocate",
+          "description": "A persona that values the brand's commitment to safety and reliability, despite its revolutionary claims.",
+          "focus": ["Pathos", "Trust", "Security"]
+        }
+      },
+      "portfolioArchitectureComparison": {
+        "architectureType": "Branded House",
+        "description": "VALEO uses a Branded House model with a clear focus on the master brand. All its innovations and technologies in electrification, automation, and digitalization are positioned under the central 'VALEO' brand, reinforcing its role as the 'architect of mobility's software-defined future'."
+      },
+      "brandArchitectureAnalysis": {
+        "masterBrand": "VALEO",
+        "subBrands": "Not explicitly detailed as separate brands.",
+        "brandRelationship": "Master brand driven."
+      },
+      "keyBusinessDriversPriorityMatrix": [
+        {
+          "driver": "Software-Defined Future",
+          "priority": "High",
+          "evidence": "Positions itself as the 'architect of mobility's software-defined future'."
+        },
+        {
+          "driver": "Electrification, Automation, Digitalization",
+          "priority": "High",
+          "evidence": "Three key technology pillars and a strong focus on these areas."
+        },
+        {
+          "driver": "Transformational Leadership",
+          "priority": "High",
+          "evidence": "Uses terms like 'revolutionary change' and 'disruption'."
+        }
+      ]
+    },
+    {
+      "brandName": "ZF",
+      "narrativeCoherenceScorecard": {
+        "alignmentScore": "6/10",
+        "tensions": [
+          {
+            "name": "Heritage vs. Future",
+            "description": "Strategic tension between its future-focused rhetoric and its deep roots in traditional mechanical systems.",
+            "severity": "High"
+          },
+          {
+            "name": "Corpus Contamination",
+            "description": "Potential corpus contamination in employee diversity narratives that diverge from the dominant technical discourse.",
+            "severity": "High"
+          },
+          {
+            "name": "Broad vs. Specialization",
+            "description": "Positioning as a 'mobility transformer' can dilute focus on specific technologies.",
+            "severity": "Medium"
+          }
+        ]
+      },
+      "audiencePersonaNetwork": {
+        "persona_1": {
+          "name": "The Technology Transformer",
+          "description": "Executives and engineers interested in ZF's role in the evolution of electric and autonomous mobility.",
+          "focus": ["Logos", "Transformation", "Technology"]
+        },
+        "persona_2": {
+          "name": "The Traditional Partner",
+          "description": "Partners and customers who value the brand's excellence in traditional mechanical systems.",
+          "focus": ["Ethos", "Heritage", "Reliability"]
+        },
+        "persona_3": {
+          "name": "The Employee/Internal Stakeholder",
+          "description": "Employees who are exposed to narratives about diversity and internal culture, which may be inconsistent with external technical messaging.",
+          "focus": ["Pathos", "Community", "Purpose"]
+        }
+      },
+      "portfolioArchitectureComparison": {
+        "architectureType": "Branded House",
+        "description": "ZF operates under a powerful 'ZF' master brand, unifying its vast portfolio of technologies from traditional mechanical systems to future-oriented electric and autonomous solutions. The narrative of being a 'mobility transformer' serves as the overarching story for all its offerings, though the tension between its heritage and future is a key challenge."
+      },
+      "brandArchitectureAnalysis": {
+        "masterBrand": "ZF",
+        "subBrands": "Not explicitly detailed as separate brands.",
+        "brandRelationship": "Master brand driven."
+      },
+      "keyBusinessDriversPriorityMatrix": [
+        {
+          "driver": "Technological Leadership",
+          "priority": "High",
+          "evidence": "Focus on electric mobility, autonomous driving, and sustainable transportation solutions."
+        },
+        {
+          "driver": "Bridging Heritage & Future",
+          "priority": "High",
+          "evidence": "Positions itself at the intersection of traditional excellence and future innovation."
+        },
+        {
+          "driver": "Mobility Transformation",
+          "priority": "High",
+          "evidence": "Core identity as a 'technology-driven mobility transformer'."
+        }
+      ]
+    }
+  ],
+  "enhancedAnalyticalComponents": {
+    "competitiveTensionAnalyzer": {
+      "tensionPatternMatrix": [
+        {
+          "name": "Heritage vs. Future",
+          "percentage": "80%",
+          "brands": ["BOSCH MOBILITY", "FORVIA HELLA", "GENTEX", "LEAR", "ZF"],
+          "implications": "This is the most common tension, indicating a widespread challenge in the industry to reconcile established legacy with new, transformative ambitions. It can lead to fragmented messaging and a perception of slow adaptation if not resolved. For Magna, this is not a primary tension but its 'Creator' archetype could be underutilized if it gets too caught up in traditional partnerships."
+        },
+        {
+          "name": "Breadth vs. Specialization",
+          "percentage": "60%",
+          "brands": [
+            "APTIV",
+            "BOSCH MOBILITY",
+            "MAGNA INTERNATIONAL",
+            "VALEO",
+            "ZF"
+          ],
+          "implications": "This tension shows that brands with broad portfolios risk being seen as 'jacks of all trades, masters of none' in a market that values specialized expertise. For Magna, this is its most significant tension and a key disadvantage if not addressed. It must learn to communicate its broad capabilities in a way that highlights unique, differentiated specialization."
+        },
+        {
+          "name": "Communication Style vs. Narrative/Values",
+          "percentage": "40%",
+          "brands": ["LEAR", "VALEO", "DENSO"],
+          "implications": "This tension can lead to a disconnect between a brand's stated values and how it actually communicates, impacting trust and emotional resonance. It's less of a tension for Magna, but a point of learning from brands like Lear."
+        },
+        {
+          "name": "Internal vs. External Coherence",
+          "percentage": "20%",
+          "brands": ["ZF"],
+          "implications": "This is a serious internal issue that can lead to a fragmented company culture and inconsistent external messaging. While not a primary tension for Magna, it underscores the importance of a unified internal brand vision."
+        }
+      ],
+      "resolutionStrategiesUsedBySuccessfulBrands": [
+        "**Lear:** Manages its 'Heritage vs. Future' tension with a high-coherence, two-pillar approach (Seating and E-Systems). It makes the transition from physical to digital seem like a natural evolution of its core expertise.",
+        "**Gentex:** Resolves the 'Heritage vs. Future' tension by explicitly integrating its innovative technologies (Creator) with its human-centric values and manufacturing legacy (Caregiver), showing how the past and future are connected through its people and culture."
+      ],
+      "learnFromHighCoherenceBrands": {
+        "bestInClass": ["LEAR", "APTIV"],
+        "learnerBrand": "MAGNA INTERNATIONAL",
+        "lessons": [
+          "**Clarity of Pillars:** Lear's two-pillar approach provides a clear framework. Magna could benefit from identifying and communicating its key 'pillars' more distinctly within its broad portfolio.",
+          "**Narrative Focus:** Aptiv's 'brain and nervous system' metaphor is a powerful, unifying narrative. Magna's 'shaping the future' is a good vision, but it could be made more tangible with a similar, clear metaphor.",
+          "**Connecting Past and Future:** Lear and Aptiv successfully link their established expertise (heritage) to their future ambitions, making the transformation believable and coherent. Magna needs to make this connection more explicit."
+        ]
+      },
+      "tensionSeverityScoring": [
+        {
+          "brand": "BOSCH MOBILITY",
+          "severityScore": "High",
+          "notes": "Heritage vs. Digital and Breadth vs. Specialization are both high-impact tensions."
+        },
+        {
+          "brand": "FORVIA HELLA",
+          "severityScore": "High",
+          "notes": "Heritage vs. Future and Product-Centricity vs. Narrative are key, unresolved tensions."
+        },
+        {
+          "brand": "MAGNA INTERNATIONAL",
+          "severityScore": "High RED #E22E2F",
+          "notes": "Breadth vs. Specialization is a critical challenge for a 'Creator' brand needing to show unique contributions."
+        },
+        {
+          "brand": "VALEO",
+          "severityScore": "High",
+          "notes": "The disconnect between its 'revolutionary' narrative and 'measured' tone is a major narrative gap."
+        },
+        {
+          "brand": "ZF",
+          "severityScore": "High",
+          "notes": "The combination of Heritage vs. Future and internal corpus contamination presents significant risks."
+        },
+        {
+          "brand": "APTIV",
+          "severityScore": "Medium",
+          "notes": "Tensions are present but less severe and generally well-managed."
+        },
+        {
+          "brand": "CONTINENTAL",
+          "severityScore": "Medium",
+          "notes": "Inconsistent audience cues and portfolio clarity issues require attention."
+        },
+        {
+          "brand": "DENSO",
+          "severityScore": "Medium",
+          "notes": "Inconsistent audience focus and sentiment gaps are the main issues."
+        },
+        {
+          "brand": "GENTEX",
+          "severityScore": "Low",
+          "notes": "Minor tensions are well-managed by a highly coherent brand."
+        },
+        {
+          "brand": "LEAR",
+          "severityScore": "Low",
+          "notes": "The most coherent brand with only minor, well-managed tensions."
+        }
+      ]
+    },
+    "uniqueDifferentiatorMatrix": {
+      "aptiv": {
+        "singularClaim": "Ownership of both the 'brain' and 'nervous system' of vehicles.",
+        "defensibilityAssessment": "Highly defensible. This is a unique, proprietary metaphor that encapsulates its comprehensive approach and is not claimed by competitors. It positions Aptiv as a singular, systemic solution."
+      },
+      "gentex": {
+        "singularClaim": "A unique, highly coherent combination of a Creator archetype with a human-centric Caregiver focus.",
+        "defensibilityAssessment": "Highly defensible. While others may be innovative or caring, Gentex’s explicit integration of these two themes with a local community and employee focus is singular and hard to replicate authentically."
+      },
+      "lear": {
+        "singularClaim": "Two-pillar simplicity: leadership in Seating and E-Systems as a core competency.",
+        "defensibilityAssessment": "Highly defensible. This clear, simple focus provides a strong, memorable differentiator in a crowded market of 'holistic' providers. It's a statement of expertise and focus that others can't claim."
+      },
+      "magna": {
+        "singularClaim": "Unparalleled integration capability through its comprehensive portfolio, positioning it as the 'essential technology partner that transforms automotive solutions'.",
+        "defensibilityAssessment": "Potentially high, but currently underutilized. The claim of being a comprehensive partner is shared, but Magna's actual ability to integrate a full range of technologies from its own portfolio is unique. The challenge is to move it from a broad claim to a tangible, defensible, and communicated advantage."
+      },
+      "bosch_mobility": {
+        "singularClaim": "Positioning as the 'orchestrator' of the transformation towards software-defined, sustainable mobility across all vehicle segments.",
+        "defensibilityAssessment": "Medium. While 'orchestration' is a unique term, the underlying claim of being a comprehensive solution provider is shared with other brands, diluting its defensibility if not backed by specific examples."
+      },
+      "continental": {
+        "singularClaim": "Vision for 'zero-accident mobility' and a strong heritage in tires and sensors.",
+        "defensibilityAssessment": "Medium. 'Zero-accident' is a powerful vision, but others also claim to enhance safety. The combination with its specific heritage in certain product lines provides some defensibility, but is not a singular, unshared claim."
+      },
+      "denso": {
+        "singularClaim": "Commitment to fostering a 'cycle of well-being' through its technologies.",
+        "defensibilityAssessment": "Medium. While the phrase is unique, the underlying claim of contributing to safety and well-being is a common theme in the industry. The defensibility depends on providing specific, emotional evidence of this commitment."
+      },
+      "forvia_hella": {
+        "singularClaim": "A 'dual identity' narrative bridging heritage engineering with transformation ambitions.",
+        "defensibilityAssessment": "Medium. This is a specific narrative that reflects its merger, but it is also a tension point. Other brands also bridge heritage and future, though not with the same explicit 'dual identity' framing."
+      },
+      "valeo": {
+        "singularClaim": "Positioning as 'the architect of mobility's software-defined future'.",
+        "defensibilityAssessment": "Medium. 'Architect' is a unique role, but the core claim of leading software-defined mobility is a key battleground with many players. Its defensibility depends on its ability to prove this role with concrete examples, especially against brands like Aptiv and Bosch."
+      },
+      "zf": {
+        "singularClaim": "Positioning at the 'intersection of traditional automotive excellence and future-oriented innovation'.",
+        "defensibilityAssessment": "Low. The claim of bridging tradition and future is a common narrative pattern (80% share this tension). While true for ZF, it's not a singular, defensible differentiator in a crowded market."
+      }
+    },
+    "coherenceBenchmarkingTool": {
+      "magnaCoherenceScore": "7/10",
+      "bestInClassCoherenceScore": "8.5/10",
+      "bestInClassBrand": "LEAR",
+      "specificImprovementOpportunitiesForMagna": [
+        "**Clarity of Portfolio:** Refine messaging to move from a broad 'comprehensive provider' to a 'leader in X, Y, and Z', similar to Lear's Seating and E-Systems pillars.",
+        "**Tangibility of 'Creator' Archetype:** More explicitly connect the 'shaping the future' narrative to tangible acts of creation—showcase R&D, design processes, and specific breakthrough innovations more prominently.",
+        "**Emotional Connection:** Infuse more of the 'Creator' archetype's passion and purpose into the narrative to build greater emotional resonance, rather than relying solely on authoritative, technical messaging."
+      ],
+      "tensionResolutionBestPractices": {
+        "fromLear": "Embrace simplicity and focus. By clearly defining its core product pillars, Lear made its complex portfolio feel coherent and its transformation story feel like a logical evolution of its expertise.",
+        "fromGentex": "Leverage a unique archetype combination. Gentex's fusion of Creator and Caregiver archetypes provides a powerful, human-centric lens for its innovation story, making it both memorable and coherent."
+      }
+    },
+    "strategicTensionPatternInsights": {
+      "commonTensionHeatMap": {
+        "Heritage vs. Future": {
+          "percentage": "80%",
+          "brands": ["BOSCH MOBILITY", "FORVIA HELLA", "GENTEX", "LEAR", "ZF"]
+        },
+        "Breadth vs. Specialization": {
+          "percentage": "60%",
+          "brands": [
+            "APTIV",
+            "BOSCH MOBILITY",
+            "MAGNA INTERNATIONAL",
+            "VALEO",
+            "ZF"
+          ]
+        },
+        "Communication Style vs. Narrative": {
+          "percentage": "40%",
+          "brands": ["LEAR", "VALEO", "DENSO"]
+        },
+        "Internal Coherence (Corpus Contamination)": {
+          "percentage": "10%",
+          "brands": ["ZF"]
+        },
+        "Audience Inconsistency": {
+          "percentage": "30%",
+          "brands": ["CONTINENTAL", "DENSO", "FORVIA HELLA"]
+        }
+      },
+      "industryWideImplications": "The prevalence of 'Heritage vs. Future' and 'Breadth vs. Specialization' tensions highlights the industry's struggle to transition from a legacy manufacturing model to a future-focused, software-driven one. Brands are either trying to do too much at once (breadth) or are not effectively integrating their past with their future. This opens a 'whitespace' opportunity for brands that can master both a clear, focused narrative and a seamless transition from legacy to innovation.",
+      "magnaAdvantageDisadvantageFromEachTension": {
+        "advantage": "Magna's primary tension is not 'Heritage vs. Future', which is a significant advantage. The brand is not as weighed down by legacy, allowing it to more freely claim a 'shaping the future' Creator role.",
+        "disadvantage": "Magna's most significant tension is 'Breadth vs. Specialization'. This is a major disadvantage because it risks diluting its unique Creator archetype and comprehensive capabilities in a market where specialized leadership is valued. This is Magna's key challenge to overcome."
+      },
+      "priorityResolutionOrder": "For the industry as a whole, resolving the 'Heritage vs. Future' tension is the highest priority due to its widespread impact. For Magna specifically, the highest priority is to resolve the 'Breadth vs. Specialization' tension by developing a more focused and tangible expression of its comprehensive capabilities."
+    }
+  }
+}

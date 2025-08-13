@@ -1,0 +1,1402 @@
+{
+  "brandReports": [
+    {
+      "brandName": "APTIV",
+      "voicePersonalityCards": {
+        "The Visionary Architect": {
+          "description": "This persona is characterized by its forward-thinking approach, designing and building the future of mobility. It speaks with authority on emerging technologies and trends, focusing on innovation and systemic solutions. [cite: 299, 300, 319, 321]"
+        },
+        "The Trustworthy Enabler": {
+          "description": "This aspect emphasizes reliability, safety, and the practical application of technology to solve real-world problems. It communicates with a focus on trust-building, delivering on promises, and ensuring secure and efficient systems. [cite: 300, 305, 307]"
+        },
+        "The Connected Innovator": {
+          "description": "This persona highlights the brand's ability to integrate diverse systems and foster connectivity, both technologically and collaboratively. It speaks to a future where everything is linked, emphasizing seamless integration and partnership. [cite: 300, 311, 313]"
+        }
+      },
+      "tonalRangeHeatMap": {
+        "Trust-Building": {
+          "frequency": 250,
+          "context": "Across all communications, particularly when discussing safety and reliability. [cite: 169]"
+        },
+        "Anticipation": {
+          "frequency": 180,
+          "context": "Evident in future-focused statements, innovation claims, and discussions about new mobility paradigms. [cite: 170]"
+        },
+        "Confidence": {
+          "frequency": 150,
+          "context": "Seen in declarative statements about technological leadership and comprehensive solutions. [cite: 171]"
+        },
+        "Authoritative": {
+          "frequency": 120,
+          "context": "When explaining complex technical concepts and positioning as an industry leader. [cite: 172]"
+        }
+      },
+      "lexiconExplorer": {
+        "mobility_transformation": {
+          "category": "Core Strategic Theme",
+          "uniqueWords": [
+            "mobility",
+            "transformation",
+            "future",
+            "driving",
+            "autonomous"
+          ]
+        },
+        "brain_nervous_system": {
+          "category": "Metaphorical Language",
+          "uniqueWords": [
+            "brain",
+            "nervous system",
+            "architecture",
+            "system",
+            "ecosystem"
+          ]
+        },
+        "safety_sustainability_connectivity": {
+          "category": "Key Pillars",
+          "uniqueWords": [
+            "safety",
+            "sustainability",
+            "connectivity",
+            "secure",
+            "efficient"
+          ]
+        },
+        "innovation_solutions": {
+          "category": "Value Proposition",
+          "uniqueWords": [
+            "innovation",
+            "solutions",
+            "technology",
+            "engineering",
+            "advanced"
+          ]
+        }
+      },
+      "rhetoricalStyleTriangleCharts": {
+        "ethos": "40%",
+        "logos": "50%",
+        "pathos": "10%"
+      },
+      "brandNarrativeReader": "APTIV positions itself as the comprehensive enabler of mobility transformation, uniquely claiming ownership of both the 'brain' and 'nervous system' of vehicles. The brand demonstrates strong coherence around themes of safety, sustainability, and connectivity. Its narrative is future-focused, emphasizing the development of software-defined and sustainable mobility solutions. However, strategic tensions exist between its future-focused narrative and present-tense delivery claims, as well as potential gaps in emotional resonance within its highly technical communications framework. The brand's core story revolves around building a safer, greener, and more connected future, primarily through advanced engineering and systemic integration. [cite: 299, 300, 307, 311, 313, 319, 321]",
+      "archetypeConstellation": {
+        "primary": "Sage",
+        "secondary": "Creator",
+        "visualizationNotes": "The Sage archetype reflects the brand's focus on knowledge, insight, and guiding the industry through complex technological shifts. The Creator archetype highlights its role in innovating, building new solutions, and shaping the future of mobility."
+      },
+      "archetypePatternAnalyzer": {
+        "industryArchetypeDistribution": "Sage: 70% (saturation high)",
+        "unusedArchetypes": ["Hero", "Rebel", "Explorer"],
+        "creatorAdvantage": "Only 20% of brands are Creator-dominant (Magna + Gentex). APTIV also has Creator as a secondary, indicating an opportunity.",
+        "primaryVsSecondaryPatterns": "APTIV's primary Sage and secondary Creator suggest a pattern of 'Knowledge-Driven Innovation', positioning it as a thought leader that also actively builds the future.",
+        "differentiationOpportunityScorecard": "N/A (Magna specific, not applicable for APTIV)"
+      },
+      "narrativeStructureComparator": {
+        "storyArcAnalysis": "APTIV's narrative follows a 'Transformation' arc: identifying the challenge of future mobility, presenting its technology as the solution, and envisioning a safer, more connected outcome. [cite: 299, 300]",
+        "commonNarrativeThemesHeatMap": {
+          "Transformation": "High",
+          "Safety": "High",
+          "Sustainability": "High",
+          "Connectivity": "High",
+          "Innovation": "High",
+          "Partnership": "Medium"
+        },
+        "uniqueNarrativeElementsIdentifier": [
+          "Ownership of 'brain' and 'nervous system' of vehicles. [cite: 299]",
+          "Emphasis on comprehensive systemic solutions over individual components. [cite: 299]"
+        ],
+        "narrativeMemorabilityIndex": "Medium (due to technical focus, opportunities for enhanced emotional resonance identified). [cite: 300]",
+        "transformationClaimsVsEvidence": "High claims of future transformation, with evidence primarily in technological advancements and strategic partnerships, but some tension in present-tense delivery claims. [cite: 300]"
+      },
+      "archetypeNarrativeCoherenceScorer": {
+        "alignmentAssessment": "7/10 (Generally aligned, but minor tensions exist). [cite: 300]",
+        "contradictionIdentifier": [
+          "Future-focused narrative vs. present-tense delivery claims. [cite: 300]",
+          "Highly technical communications framework vs. need for emotional resonance. [cite: 300]"
+        ],
+        "magnaVsBestCoherence": "N/A (Lear is best coherence, but comparison to Magna is not directly applicable for APTIV's score)",
+        "strategicImplicationsOfMisalignment": "Potential for reduced emotional engagement and perceived gaps in immediate applicability of innovations. Opportunities to bridge the gap between abstract future vision and tangible current benefits. [cite: 300]"
+      },
+      "competitiveArchetypeStrategyMap": {
+        "positioning": {
+          "x": "Transformational",
+          "y": "Saturated"
+        },
+        "movementVectors": "Opportunity to move towards 'Unique Transformational' by emphasizing its specific 'brain and nervous system' claim and Creator aspect more strongly.",
+        "whitespaceTerritories": "N/A (General guidance, not brand-specific)"
+      },
+      "creatorDifferentiationDashboard": "N/A (Magna specific, not applicable for APTIV)"
+    },
+    {
+      "brandName": "BOSCH MOBILITY",
+      "voicePersonalityCards": {
+        "The Holistic Architect": {
+          "description": "This persona is defined by its role as a comprehensive technology partner, orchestrating the transformation towards software-defined, sustainable mobility across all vehicle segments. It communicates with a focus on integrated solutions and broad ecosystem impact. [cite: 931, 932]"
+        },
+        "The Industrial Pioneer": {
+          "description": "Emphasizes Bosch's deep industrial heritage and expertise, bridging traditional hardware with future software innovations. It speaks with authority gained from years of foundational work in the automotive industry. [cite: 932]"
+        },
+        "The Digital Orchestrator": {
+          "description": "Highlights the brand's pivot towards digital aspirations and software-defined solutions, positioning it as a leader in managing complex technological shifts in mobility. [cite: 931, 932]"
+        }
+      },
+      "tonalRangeHeatMap": {
+        "Trust-Building": {
+          "frequency": 280,
+          "context": "Dominant tone when discussing reliability, safety, and long-term partnership. [cite: 664, 665]"
+        },
+        "Authoritative": {
+          "frequency": 210,
+          "context": "Evident in statements about technological leadership, comprehensive solutions, and industry transformation. [cite: 666]"
+        },
+        "Confident": {
+          "frequency": 190,
+          "context": "Seen in declarative claims about market position and future vision. [cite: 667]"
+        },
+        "Anticipatory": {
+          "frequency": 150,
+          "context": "When discussing future trends, new technologies, and the evolution of mobility. [cite: 668]"
+        }
+      },
+      "lexiconExplorer": {
+        "software_defined_mobility": {
+          "category": "Core Strategic Theme",
+          "uniqueWords": [
+            "software-defined",
+            "mobility",
+            "ecosystem",
+            "transformation",
+            "digitalization"
+          ]
+        },
+        "holistic_solutions": {
+          "category": "Value Proposition",
+          "uniqueWords": [
+            "holistic",
+            "solutions",
+            "comprehensive",
+            "integrated",
+            "partner"
+          ]
+        },
+        "hardware_legacy_software_futures": {
+          "category": "Transition Narrative",
+          "uniqueWords": ["hardware", "software", "legacy", "futures", "bridge"]
+        },
+        "sustainable_electrification": {
+          "category": "Future Focus",
+          "uniqueWords": [
+            "sustainable",
+            "electrification",
+            "autonomous",
+            "connectivity",
+            "green"
+          ]
+        }
+      },
+      "rhetoricalStyleTriangleCharts": {
+        "ethos": "45%",
+        "logos": "50%",
+        "pathos": "5%"
+      },
+      "brandNarrativeReader": "Bosch Mobility presents itself as a comprehensive technology partner orchestrating the transformation toward software-defined, sustainable mobility across all vehicle segments. The brand narrative is architected around the promise of holistic solutions that bridge hardware legacy with software futures. While projecting a strong industrial heritage, it also highlights digital aspirations. Strategic tensions emerge between its industrial heritage and digital aspirations, and between its comprehensive scope and the need for clear differentiation in specific technology domains. The core story emphasizes its role in transforming mobility through integrated solutions and a broad ecosystem approach. [cite: 931, 932, 937]",
+      "archetypeConstellation": {
+        "primary": "Sage",
+        "secondary": "Ruler",
+        "visualizationNotes": "The Sage archetype aligns with Bosch's role as a knowledgeable leader in technology and transformation. The Ruler archetype reflects its comprehensive scope, control over solutions, and ambition to orchestrate the future of mobility."
+      },
+      "archetypePatternAnalyzer": {
+        "industryArchetypeDistribution": "Sage: 70% (saturation high)",
+        "unusedArchetypes": ["Hero", "Rebel", "Explorer"],
+        "creatorAdvantage": "N/A (Bosch is Sage/Ruler)",
+        "primaryVsSecondaryPatterns": "Bosch's Sage/Ruler combination suggests 'Authoritative Knowledge Leadership', aiming to not only understand but also govern the direction of mobility.",
+        "differentiationOpportunityScorecard": "N/A (Magna specific)"
+      },
+      "narrativeStructureComparator": {
+        "storyArcAnalysis": "Bosch Mobility's narrative often follows an 'Orchestration' arc: demonstrating its comprehensive ability to bring together diverse elements (hardware, software, segments) to create a unified future mobility. [cite: 931, 932]",
+        "commonNarrativeThemesHeatMap": {
+          "Software-Defined Mobility": "High",
+          "Sustainability": "High",
+          "Holistic Solutions": "High",
+          "Transformation": "High",
+          "Industrial Heritage": "Medium",
+          "Digital Aspirations": "Medium"
+        },
+        "uniqueNarrativeElementsIdentifier": [
+          "Claim of 'orchestrating' the transformation. [cite: 931]",
+          "Emphasis on bridging 'hardware legacy with software futures'. [cite: 932]"
+        ],
+        "narrativeMemorabilityIndex": "Medium (comprehensive scope can sometimes dilute specific differentiation).",
+        "transformationClaimsVsEvidence": "Strong claims for holistic transformation, supported by a broad portfolio and heritage, but differentiation in specific digital domains could be clearer. [cite: 932]"
+      },
+      "archetypeNarrativeCoherenceScorer": {
+        "alignmentAssessment": "6/10 (Generally coherent, but tensions between heritage and aspirations). [cite: 932]",
+        "contradictionIdentifier": [
+          "Industrial heritage vs. digital aspirations. [cite: 932]",
+          "Comprehensive scope vs. need for clear differentiation in specific tech domains. [cite: 932]"
+        ],
+        "magnaVsBestCoherence": "N/A",
+        "strategicImplicationsOfMisalignment": "Risk of perceived lack of focus or slower adaptation to new digital paradigms despite strong claims. Opportunity to highlight specific digital breakthroughs more clearly. [cite: 932]"
+      },
+      "competitiveArchetypeStrategyMap": {
+        "positioning": {
+          "x": "Traditional-to-Transformational",
+          "y": "Saturated"
+        },
+        "movementVectors": "Opportunity to move towards 'Unique Transformational' by more strongly emphasizing its digital orchestration capabilities and specific domain leadership.",
+        "whitespaceTerritories": "N/A"
+      },
+      "creatorDifferentiationDashboard": "N/A"
+    },
+    {
+      "brandName": "CONTINENTAL",
+      "voicePersonalityCards": {
+        "The Reliable Engineer": {
+          "description": "A pragmatic expert who communicates with assured precision, focusing on technical specifications, performance, and problem-solving through engineering excellence. This persona emphasizes trust through proven capability. [cite: 1339]"
+        },
+        "The Safety Advocate": {
+          "description": "Driven by a commitment to well-being and risk reduction, this persona highlights innovations that enhance safety, security, and stability in mobility. It speaks with a protective and responsible tone. [cite: 1505, 1506]"
+        },
+        "The Digital Integrator": {
+          "description": "Focuses on connecting systems and advancing digital solutions within vehicles, emphasizing smart, integrated technologies that improve user experience and efficiency. [cite: 1505, 1506]"
+        }
+      },
+      "tonalRangeHeatMap": {
+        "Trust-Building": {
+          "frequency": 78,
+          "context": "Dominant, foundational for safety and reliability claims. [cite: 1372]"
+        },
+        "Confident": {
+          "frequency": "High",
+          "context": "Evident in declarative statements about technical leadership and problem-solving. [cite: 1373]"
+        },
+        "Analytical": {
+          "frequency": "High",
+          "context": "When presenting technical data, explaining complex systems, and detailing solutions. [cite: 1374]"
+        },
+        "Pragmatic": {
+          "frequency": "Medium",
+          "context": "Focus on practical applications and tangible benefits of technologies. [cite: 1375]"
+        }
+      },
+      "lexiconExplorer": {
+        "automotive_technologies": {
+          "category": "Core Product Focus",
+          "uniqueWords": [
+            "automotive",
+            "mobility",
+            "technologies",
+            "sensors",
+            "e-mobility"
+          ]
+        },
+        "safety_sustainability_digital": {
+          "category": "Thematic Pillars",
+          "uniqueWords": [
+            "safety",
+            "sustainability",
+            "digital",
+            "connected",
+            "innovation"
+          ]
+        },
+        "performance_environmental_impact": {
+          "category": "Solution Domains",
+          "uniqueWords": [
+            "performance",
+            "environmental impact",
+            "efficiency",
+            "emissions",
+            "zero-accident"
+          ]
+        },
+        "technical_professionals": {
+          "category": "Audience Focus",
+          "uniqueWords": [
+            "technical",
+            "professionals",
+            "engineers",
+            "partners",
+            "industry"
+          ]
+        }
+      },
+      "rhetoricalStyleTriangleCharts": {
+        "ethos": "30%",
+        "logos": "60%",
+        "pathos": "10%"
+      },
+      "brandNarrativeReader": "Continental's emergent brand is centered on advancing automotive and mobility technologies, with a narrative emphasis on safety, sustainability, and digital innovation. The core story positions the organization as a developer of solutions that address challenges in vehicle performance, environmental impact, and connected systems. It primarily speaks to technical professionals and industry partners through a confident, forward-looking voice. Strategic tensions emerge in the inconsistent integration of audience cues across communications, where direct address varies, potentially diluting relational focus. An anomaly in one dataset segment referencing seating systems diverged from the dominant focus on tires, sensors, and e-mobility. Overall, the brand projects coherence in thematic pillars but reveals opportunities to resolve gaps in emotional engagement and portfolio clarity. [cite: 1505, 1506, 1507, 1508, 1509]",
+      "archetypeConstellation": {
+        "primary": "Sage",
+        "secondary": "Caregiver",
+        "visualizationNotes": "The Sage archetype aligns with Continental's focus on knowledge and expertise in advancing automotive technologies. The Caregiver archetype reflects its deep commitment to safety and sustainability, ensuring well-being and protection."
+      },
+      "archetypePatternAnalyzer": {
+        "industryArchetypeDistribution": "Sage: 70% (saturation high)",
+        "unusedArchetypes": ["Hero", "Rebel", "Explorer"],
+        "creatorAdvantage": "N/A (Continental is Sage/Caregiver)",
+        "primaryVsSecondaryPatterns": "Continental's Sage/Caregiver combination suggests 'Protective Knowledge', positioning the brand as an expert guardian of safety and well-being in mobility.",
+        "differentiationOpportunityScorecard": "N/A (Magna specific)"
+      },
+      "narrativeStructureComparator": {
+        "storyArcAnalysis": "Continental's narrative follows a 'Problem-Solution' arc, identifying challenges in mobility (safety, environmental impact) and positioning its technologies as the expert-engineered solutions. [cite: 1505, 1506]",
+        "commonNarrativeThemesHeatMap": {
+          "Safety": "High",
+          "Sustainability": "High",
+          "Digital Innovation": "High",
+          "Technical Excellence": "High",
+          "Environmental Impact": "Medium",
+          "Connected Systems": "Medium"
+        },
+        "uniqueNarrativeElementsIdentifier": [
+          "Strong emphasis on 'zero-accident mobility' vision. [cite: 1252]",
+          "Specific focus on tires, sensors, and e-mobility, despite some data anomalies. [cite: 1508]"
+        ],
+        "narrativeMemorabilityIndex": "Medium (highly technical focus may limit broad emotional recall).",
+        "transformationClaimsVsEvidence": "Claims supported by ongoing product development in key areas (tires, sensors, e-mobility), but some portfolio clarity gaps exist. [cite: 1508, 1509]"
+      },
+      "archetypeNarrativeCoherenceScorer": {
+        "alignmentAssessment": "6.5/10 (Thematic coherence is strong, but audience cue inconsistency and data anomalies create minor tensions). [cite: 1507, 1508, 1509]",
+        "contradictionIdentifier": [
+          "Inconsistent integration of audience cues ('you' vs. general address). [cite: 1507]",
+          "Data anomaly referencing seating systems divergent from core focus. [cite: 1508]"
+        ],
+        "magnaVsBestCoherence": "N/A",
+        "strategicImplicationsOfMisalignment": "Potential for diluted relational focus and confusion regarding core product emphasis. Opportunities to unify audience address and refine portfolio clarity. [cite: 1507, 1509]"
+      },
+      "competitiveArchetypeStrategyMap": {
+        "positioning": {
+          "x": "Traditional-to-Transformational",
+          "y": "Saturated"
+        },
+        "movementVectors": "Opportunity to move towards 'Unique Transformational' by more explicitly linking its heritage engineering to future digital/sustainable breakthroughs.",
+        "whitespaceTerritories": "N/A"
+      },
+      "creatorDifferentiationDashboard": "N/A"
+    },
+    {
+      "brandName": "DENSO",
+      "voicePersonalityCards": {
+        "The Reliable Partner": {
+          "description": "Communicates trust and dependability, emphasizing its role as a stable collaborator in the automotive ecosystem. It speaks with a steady, assured voice focused on long-term relationships and consistent performance. [cite: 1999]"
+        },
+        "The Future-Focused Innovator": {
+          "description": "Highlights DENSO's commitment to cutting-edge technology and future-oriented solutions in mobility. It speaks with anticipation and confidence about evolving transportation landscapes. [cite: 1997, 1999]"
+        },
+        "The Well-being Enabler": {
+          "description": "Emphasizes contributions to safety, efficiency, and environmental progress, reflecting a broader commitment to societal well-being. It communicates with a sense of purpose beyond purely technical achievements. [cite: 1997, 1771]"
+        }
+      },
+      "tonalRangeHeatMap": {
+        "Trust-Building": {
+          "frequency": "Dominant",
+          "context": "Core for positioning as a reliable partner in automotive systems. [cite: 1999]"
+        },
+        "Anticipation": {
+          "frequency": "High",
+          "context": "Evident in future-oriented innovation and discussions about transforming transportation. [cite: 1999]"
+        },
+        "Technical-Authoritative": {
+          "frequency": "High",
+          "context": "When describing advanced engineering and automotive systems. [cite: 1866]"
+        },
+        "Confident": {
+          "frequency": "Medium",
+          "context": "In declarative statements about its role and contributions. [cite: 1999]"
+        }
+      },
+      "lexiconExplorer": {
+        "automotive_systems": {
+          "category": "Core Product Focus",
+          "uniqueWords": [
+            "automotive",
+            "systems",
+            "components",
+            "engineering",
+            "mobility"
+          ]
+        },
+        "safety_efficiency_environmental": {
+          "category": "Impact Areas",
+          "uniqueWords": [
+            "safety",
+            "efficiency",
+            "environmental",
+            "progress",
+            "well-being"
+          ]
+        },
+        "future_innovation": {
+          "category": "Strategic Direction",
+          "uniqueWords": [
+            "future",
+            "innovation",
+            "transforming",
+            "electrification",
+            "advanced"
+          ]
+        },
+        "collaboration_partnership": {
+          "category": "Operational Approach",
+          "uniqueWords": [
+            "collaboration",
+            "partner",
+            "ecosystem",
+            "joint",
+            "solution"
+          ]
+        }
+      },
+      "rhetoricalStyleTriangleCharts": {
+        "ethos": "55%",
+        "logos": "40%",
+        "pathos": "5%"
+      },
+      "brandNarrativeReader": "DENSO's emergent brand profile reveals a technology provider centered on automotive systems and components, with a narrative emphasizing contributions to safety, efficiency, and environmental progress through advanced engineering. Its verbal identity is marked by confident, active language and a tonal range dominated by trust and anticipation, positioning the brand as a reliable partner in transforming transportation. A cohesive focus on future-oriented innovation in mobility is supported by themes of collaboration and sustainability. Strategic tensions emerge in the inconsistent emphasis on audience segments and occasional data anomalies in non-core areas like agriculture. Gaps like varying sentiment across themes and underrepresented emotional appeals highlight opportunities for narrative refinement. [cite: 1997, 1998, 1999, 2000]",
+      "archetypeConstellation": {
+        "primary": "Sage",
+        "secondary": "Innocent",
+        "visualizationNotes": "The Sage reflects DENSO's expertise and knowledge in advanced engineering. The Innocent archetype aligns with its purpose to foster a cycle of well-being and its emphasis on safety and environmental progress, embodying purity and optimism for a better future."
+      },
+      "archetypePatternAnalyzer": {
+        "industryArchetypeDistribution": "Sage: 70% (saturation high)",
+        "unusedArchetypes": ["Hero", "Rebel", "Explorer"],
+        "creatorAdvantage": "N/A (DENSO is Sage/Innocent)",
+        "primaryVsSecondaryPatterns": "DENSO's Sage/Innocent combination suggests 'Enlightened Purity', positioning it as a knowledgeable guide aiming for a fundamentally good and prosperous future through technology.",
+        "differentiationOpportunityScorecard": "N/A (Magna specific)"
+      },
+      "narrativeStructureComparator": {
+        "storyArcAnalysis": "DENSO's narrative often follows a 'Progress' arc: demonstrating continuous advancement in technology and societal contribution towards a better future (safety, environment). [cite: 1997, 1771]",
+        "commonNarrativeThemesHeatMap": {
+          "Safety": "High",
+          "Efficiency": "High",
+          "Environmental Progress": "High",
+          "Innovation": "High",
+          "Collaboration": "Medium",
+          "Future Mobility": "High"
+        },
+        "uniqueNarrativeElementsIdentifier": [
+          "Commitment to fostering a 'cycle of well-being'. [cite: 1771]",
+          "Ethos-driven authority in persuasion. [cite: 1898]"
+        ],
+        "narrativeMemorabilityIndex": "Medium (strong on technical reliability, but emotional appeal could be stronger). [cite: 2000]",
+        "transformationClaimsVsEvidence": "Claims of transforming transportation supported by focus on electrification and safety systems, but some inconsistencies in audience emphasis and sentiment. [cite: 1998, 2000]"
+      },
+      "archetypeNarrativeCoherenceScorer": {
+        "alignmentAssessment": "6.8/10 (Generally cohesive, but minor tensions with audience emphasis and sentiment variation). [cite: 1998, 2000]",
+        "contradictionIdentifier": [
+          "Inconsistent emphasis on audience segments. [cite: 1998]",
+          "Varying sentiment across themes and underrepresented emotional appeals. [cite: 2000]"
+        ],
+        "magnaVsBestCoherence": "N/A",
+        "strategicImplicationsOfMisalignment": "Potential for messaging to be less impactful on certain audience groups or to lack emotional resonance. Opportunity to refine narrative for clearer emotional connection and consistent audience targeting. [cite: 2000]"
+      },
+      "competitiveArchetypeStrategyMap": {
+        "positioning": {
+          "x": "Transformational",
+          "y": "Saturated"
+        },
+        "movementVectors": "Opportunity to move towards 'Unique Transformational' by more explicitly showcasing the societal impact and well-being aspects of its innovations, beyond just technical advancements.",
+        "whitespaceTerritories": "N/A"
+      },
+      "creatorDifferentiationDashboard": "N/A"
+    },
+    {
+      "brandName": "FORVIA HELLA",
+      "voicePersonalityCards": {
+        "The Dual Integrator": {
+          "description": "This persona navigates between its heritage engineering capabilities and forward-looking transformation ambitions, communicating a blend of established authority and future readiness. [cite: 2555, 2556]"
+        },
+        "The Technical Authority": {
+          "description": "Communicates from a position of deep technical expertise, focusing on product capabilities, engineering excellence, and reliable solutions. It speaks with precision and confidence about complex automotive technologies. [cite: 2556, 2339]"
+        },
+        "The Supportive Partner": {
+          "description": "Emphasizes collaboration and ensuring well-being, reflecting its Caregiver archetype. This persona highlights how its solutions support customers and contribute to a safer, more sustainable future. [cite: 2435]"
+        }
+      },
+      "tonalRangeHeatMap": {
+        "Trust-Building": {
+          "frequency": "Dominant",
+          "context": "Underpins communications, particularly around safety and reliability. [cite: 2339]"
+        },
+        "Confident": {
+          "frequency": "High",
+          "context": "Evident in declarative statements about technological prowess and solutions. [cite: 2340]"
+        },
+        "Authoritative": {
+          "frequency": "High",
+          "context": "When describing complex technical solutions and market positioning. [cite: 2341]"
+        },
+        "Pragmatic": {
+          "frequency": "Medium",
+          "context": "Focus on practical application and benefits of products. [cite: 2342]"
+        }
+      },
+      "lexiconExplorer": {
+        "automotive_technology_solutions": {
+          "category": "Core Product Focus",
+          "uniqueWords": [
+            "automotive",
+            "technology",
+            "solutions",
+            "lighting",
+            "electronics"
+          ]
+        },
+        "transformation_ambitions": {
+          "category": "Strategic Direction",
+          "uniqueWords": [
+            "transformation",
+            "sustainable",
+            "autonomous",
+            "software-defined",
+            "future"
+          ]
+        },
+        "heritage_engineering": {
+          "category": "Foundational Strength",
+          "uniqueWords": [
+            "heritage",
+            "engineering",
+            "established",
+            "experience",
+            "proven"
+          ]
+        },
+        "product_centric_communication": {
+          "category": "Communication Style",
+          "uniqueWords": [
+            "product-centric",
+            "features",
+            "capabilities",
+            "components",
+            "systems"
+          ]
+        }
+      },
+      "rhetoricalStyleTriangleCharts": {
+        "ethos": "40%",
+        "logos": "50%",
+        "pathos": "10%"
+      },
+      "brandNarrativeReader": "FORVIA HELLA reveals itself as a technology supplier operating within the automotive ecosystem, demonstrating a dual identity between heritage engineering capability and forward-looking transformation ambitions. Its communication stems from a position of established technical authority while attempting to navigate the industry's shift toward sustainable, autonomous, and software-defined mobility. Notable strategic tensions emerge between the brand's dominant product-centric communication patterns and its stated transformation narrative, suggesting potential narrative gaps that warrant strategic attention. The core narrative focuses on delivering comprehensive automotive technology solutions for tomorrow's mobility. [cite: 2555, 2556, 2557, 2228]",
+      "archetypeConstellation": {
+        "primary": "Sage",
+        "secondary": "Caregiver",
+        "visualizationNotes": "The Sage archetype aligns with FORVIA HELLA's technical authority and knowledge in automotive technology. The Caregiver archetype reflects its role as a supportive partner, ensuring safety and well-being through its solutions."
+      },
+      "archetypePatternAnalyzer": {
+        "industryArchetypeDistribution": "Sage: 70% (saturation high)",
+        "unusedArchetypes": ["Hero", "Rebel", "Explorer"],
+        "creatorAdvantage": "N/A (FORVIA HELLA is Sage/Caregiver)",
+        "primaryVsSecondaryPatterns": "FORVIA HELLA's Sage/Caregiver combination indicates 'Knowledgeable Nurturer', positioning it as an expert guide that also protects and supports its customers and the environment.",
+        "differentiationOpportunityScorecard": "N/A (Magna specific)"
+      },
+      "narrativeStructureComparator": {
+        "storyArcAnalysis": "FORVIA HELLA's narrative often attempts a 'Bridge' arc: connecting its established heritage with the future of mobility, though with some tension between product-centricity and transformation. [cite: 2555, 2557]",
+        "commonNarrativeThemesHeatMap": {
+          "Heritage Engineering": "High",
+          "Transformation": "High",
+          "Sustainable Mobility": "High",
+          "Autonomous Driving": "High",
+          "Software-Defined Mobility": "High",
+          "Product Excellence": "High"
+        },
+        "uniqueNarrativeElementsIdentifier": [
+          "Explicit 'dual identity' narrative. [cite: 2555]",
+          "Emphasis on 'lighting and electronics' as core areas. [cite: 2228]"
+        ],
+        "narrativeMemorabilityIndex": "Medium (tension between past and future, and product-focus vs. narrative ambition). [cite: 2557]",
+        "transformationClaimsVsEvidence": "Claims of transformation are present, but dominant product-centric communication patterns create narrative gaps. [cite: 2557]"
+      },
+      "archetypeNarrativeCoherenceScorer": {
+        "alignmentAssessment": "6/10 (Strategic tensions exist between product-centric communication and transformation narrative). [cite: 2557]",
+        "contradictionIdentifier": [
+          "Dominant product-centric communication patterns vs. stated transformation narrative. [cite: 2557]"
+        ],
+        "magnaVsBestCoherence": "N/A",
+        "strategicImplicationsOfMisalignment": "Risk of being perceived as less innovative or adaptive than desired. Opportunity to more explicitly link product capabilities to future-oriented transformation. [cite: 2557]"
+      },
+      "competitiveArchetypeStrategyMap": {
+        "positioning": {
+          "x": "Traditional-to-Transformational",
+          "y": "Saturated"
+        },
+        "movementVectors": "Opportunity to move towards 'Unique Transformational' by resolving the tension between product focus and future narrative, showing how heritage fuels new transformation.",
+        "whitespaceTerritories": "N/A"
+      },
+      "creatorDifferentiationDashboard": "N/A"
+    },
+    {
+      "brandName": "GENTEX",
+      "voicePersonalityCards": {
+        "The Visionary Innovator": {
+          "description": "Driven by a Creator archetype, this persona speaks with originality and a focus on bringing new concepts and technologies (especially in vision systems) to life. It emphasizes ingenuity and shaping the future. [cite: 3010, 3087]"
+        },
+        "The Human-Centric Caregiver": {
+          "description": "Reflects the Caregiver archetype and a strong emphasis on employee empowerment and human well-being. This persona communicates with empathy, support, and a focus on positive impact on people and society. [cite: 3087, 3088, 2886]"
+        },
+        "The Coherent Pragmatist": {
+          "description": "Demonstrates remarkable coherence between its technological narrative and human-centric values, speaking with a balanced and integrated voice. [cite: 3088]"
+        }
+      },
+      "tonalRangeHeatMap": {
+        "Trust-Building": {
+          "frequency": 102,
+          "context": "Unusually high ratio, indicating a strong foundation of reliability and dependability. [cite: 3089]"
+        },
+        "Anticipation": {
+          "frequency": 80,
+          "context": "Reflects its innovative and future-focused communications, especially in vision technology. [cite: 2943]"
+        },
+        "Confident": {
+          "frequency": 75,
+          "context": "Seen in declarative statements about its unique solutions and workplace culture. [cite: 2944]"
+        },
+        "Supportive": {
+          "frequency": 60,
+          "context": "Underpins its human-centric and employee-focused messaging. [cite: 2945]"
+        }
+      },
+      "lexiconExplorer": {
+        "automotive_innovation": {
+          "category": "Core Strategic Theme",
+          "uniqueWords": [
+            "automotive",
+            "innovation",
+            "vision technology",
+            "future",
+            "systems"
+          ]
+        },
+        "employee_empowerment": {
+          "category": "Value & Culture",
+          "uniqueWords": [
+            "employee",
+            "empowerment",
+            "workplace",
+            "culture",
+            "human-centric"
+          ]
+        },
+        "vision_technology": {
+          "category": "Product Specialization",
+          "uniqueWords": [
+            "vision",
+            "technology",
+            "optics",
+            "display",
+            "sensing"
+          ]
+        },
+        "coherence_synthesis": {
+          "category": "Brand Characteristic",
+          "uniqueWords": [
+            "coherence",
+            "synthesized",
+            "integrated",
+            "balance",
+            "dual"
+          ]
+        }
+      },
+      "rhetoricalStyleTriangleCharts": {
+        "ethos": "40%",
+        "logos": "45%",
+        "pathos": "15%"
+      },
+      "brandNarrativeReader": "GENTEX's emergent brand is deeply rooted in automotive innovation and employee empowerment, with a particularly strong emphasis on vision technology and workplace culture. The brand demonstrates remarkable coherence between its technological narrative and human-centric values. A distinctive dual archetype combining Creator and Caregiver roles is a key discovery. Strategic tensions emerge between its heritage manufacturing identity and future-focused digital transformation aspirations. Its narrative is characterized by an unusually high trust-emotion ratio. [cite: 3087, 3088, 3089]",
+      "archetypeConstellation": {
+        "primary": "Creator",
+        "secondary": "Caregiver",
+        "visualizationNotes": "The Creator archetype signifies Gentex's innovation in vision technology and its role in bringing new ideas to life. The Caregiver archetype reflects its strong human-centric values, employee empowerment, and focus on societal well-being."
+      },
+      "archetypePatternAnalyzer": {
+        "industryArchetypeDistribution": "Creator: 20% (low saturation, significant advantage)",
+        "unusedArchetypes": ["Hero", "Rebel", "Explorer"],
+        "creatorAdvantage": "GENTEX is one of only two brands (with Magna) exhibiting a Creator archetype, providing a significant differentiation opportunity. Its Creator/Caregiver combination is unique.",
+        "primaryVsSecondaryPatterns": "Gentex's Creator/Caregiver combination suggests 'Innovative Nurturing', positioning it as a brand that creates new solutions while deeply caring for its people and impact.",
+        "differentiationOpportunityScorecard": "N/A (Magna specific, but Gentex is a key comparison for Creator)"
+      },
+      "narrativeStructureComparator": {
+        "storyArcAnalysis": "Gentex's narrative often follows an 'Evolution' arc: from a strong manufacturing heritage to future-focused digital transformation, while maintaining its core human values. [cite: 3088]",
+        "commonNarrativeThemesHeatMap": {
+          "Vision Technology": "High",
+          "Employee Empowerment": "High",
+          "Innovation": "High",
+          "Workplace Culture": "High",
+          "Human-Centric Values": "High",
+          "Digital Transformation": "Medium"
+        },
+        "uniqueNarrativeElementsIdentifier": [
+          "Unusually high trust-emotion ratio (102:12). [cite: 3089]",
+          "Explicit integration of technological and human-centric narratives. [cite: 3088]"
+        ],
+        "narrativeMemorabilityIndex": "High (distinctive blend of innovation and human values).",
+        "transformationClaimsVsEvidence": "Strong claims for future digital transformation, supported by innovation in vision tech and human-centric policies, though heritage manufacturing identity creates a slight tension. [cite: 3088]"
+      },
+      "archetypeNarrativeCoherenceScorer": {
+        "alignmentAssessment": "8/10 (Remarkable coherence between tech and human values, minor tension with heritage). [cite: 3088]",
+        "contradictionIdentifier": [
+          "Heritage manufacturing identity vs. future-focused digital transformation aspirations. [cite: 3088]"
+        ],
+        "magnaVsBestCoherence": "Comparable to Lear in coherence due to strong internal alignment, but with unique Creator/Caregiver combination.",
+        "strategicImplicationsOfMisalignment": "Minor risk of perception as slower to transform due to heritage. Opportunity to emphasize how heritage fuels innovative creation. [cite: 3088]"
+      },
+      "competitiveArchetypeStrategyMap": {
+        "positioning": {
+          "x": "Transformational",
+          "y": "Unique"
+        },
+        "movementVectors": "Strong position, opportunity to solidify 'Unique Transformational' by leveraging its Creator/Caregiver combination even more deliberately.",
+        "whitespaceTerritories": "N/A"
+      },
+      "creatorDifferentiationDashboard": {
+        "whyCreatorMattersInTransformation": "The Creator archetype signifies innovation, vision, and the ability to bring new realities into existence, which is crucial for leading transformative change rather than just adapting to it.",
+        "magnaVsGentexCreatorExecutionComparison": "Gentex exhibits strong coherence between Creator archetype and human-centric values, showing how innovation can be deeply tied to employee empowerment and care. Magna's Creator execution needs to more explicitly connect its 'shaping the future' narrative with tangible acts of creation and innovation.",
+        "howToLeverageAgainst70PercentSages": "By actively showcasing original creations, unique processes, and breakthrough products, Creator brands like Gentex (and Magna) can stand out from the dominant, knowledge-focused Sage archetype, demonstrating not just understanding, but actual pioneering.",
+        "creatorSageUniqueCombinationPower": "While Gentex is Creator/Caregiver, a Creator-Sage combination (like Magna's implied potential) would combine visionary innovation with deep knowledge and guidance, offering a powerful narrative of informed leadership that also builds the future.",
+        "specificTacticsForCreatorAdvantage": [
+          "Highlighting R&D processes and creative labs.",
+          "Showcasing early prototypes and design thinking.",
+          "Emphasizing unique problem-solving approaches.",
+          "Featuring the 'makers' and 'innovators' within the company."
+        ]
+      }
+    },
+    {
+      "brandName": "LEAR",
+      "voicePersonalityCards": {
+        "The Established Expert": {
+          "description": "Projects authority and confidence as a leader in the automotive sector, focusing on delivering tangible products and technologies. It speaks with a factual, precise, and highly competent voice. [cite: 3830, 3832]"
+        },
+        "The Responsible Innovator": {
+          "description": "Emphasizes innovation, sustainability, and operational excellence, reflecting a commitment to future-oriented solutions delivered responsibly. [cite: 3831]"
+        },
+        "The Product Pillar": {
+          "description": "Strongly communicates through its two core product pillars: Seating and E-Systems, demonstrating deep expertise and capabilities in these specific areas. [cite: 3831]"
+        }
+      },
+      "tonalRangeHeatMap": {
+        "Trust-Building": {
+          "frequency": 245,
+          "context": "Dominant, foundational for an established leader in a critical industry. [cite: 3504, 3505]"
+        },
+        "Authoritative": {
+          "frequency": "High",
+          "context": "Evident in discussions of its leadership in seating and e-systems. [cite: 3832]"
+        },
+        "Confident": {
+          "frequency": "High",
+          "context": "In declarative statements about its products and future direction. [cite: 3832]"
+        },
+        "Pragmatic": {
+          "frequency": "Medium",
+          "context": "Focus on tangible products and operational excellence. [cite: 3831]"
+        }
+      },
+      "lexiconExplorer": {
+        "automotive_sector": {
+          "category": "Industry Focus",
+          "uniqueWords": [
+            "automotive",
+            "sector",
+            "mobility",
+            "vehicles",
+            "industry"
+          ]
+        },
+        "seating_e-systems": {
+          "category": "Core Product Pillars",
+          "uniqueWords": [
+            "seating",
+            "e-systems",
+            "components",
+            "technologies",
+            "products"
+          ]
+        },
+        "innovation_sustainability": {
+          "category": "Strategic Values",
+          "uniqueWords": [
+            "innovation",
+            "sustainability",
+            "excellence",
+            "future",
+            "responsible"
+          ]
+        },
+        "manufacturing_digital": {
+          "category": "Dual Identity",
+          "uniqueWords": [
+            "manufacturing",
+            "digital",
+            "physical",
+            "solutions",
+            "legacy"
+          ]
+        }
+      },
+      "rhetoricalStyleTriangleCharts": {
+        "ethos": "50%",
+        "logos": "45%",
+        "pathos": "5%"
+      },
+      "brandNarrativeReader": "Lear projects itself as an established, expert leader in the automotive sector, focused on delivering tangible products and technologies for the future of mobility. The brand narrative is primarily built on two pillars: Seating and E-Systems, with a strong emphasis on innovation, sustainability, and operational excellence. The communication style is authoritative and confident, speaking directly to technical and business audiences. A key finding is the brand's dual focus on physical manufacturing legacy and future-oriented digital solutions. While generally coherent, analysis identified a potential strategic tension between its stated values of partnership and a communication style more declarative than collaborative. A high volume of sustainability messaging shows lower sentiment than tech themes, suggesting a gap in narrative passion versus strategic importance. [cite: 3830, 3831, 3832, 3833, 3834, 3835]",
+      "archetypeConstellation": {
+        "primary": "Sage",
+        "secondary": "Innocent",
+        "visualizationNotes": "The Sage archetype aligns with Lear's position as an expert and leader in the automotive industry, providing knowledge and guidance. The Innocent archetype reflects its values of integrity and commitment to a better future through sustainability."
+      },
+      "archetypePatternAnalyzer": {
+        "industryArchetypeDistribution": "Sage: 70% (saturation high)",
+        "unusedArchetypes": ["Hero", "Rebel", "Explorer"],
+        "creatorAdvantage": "N/A (Lear is Sage/Innocent)",
+        "primaryVsSecondaryPatterns": "Lear's Sage/Innocent combination implies 'Trusted Wisdom for a Better Future', positioning it as a knowledgeable guide with pure intentions for positive impact.",
+        "differentiationOpportunityScorecard": "N/A (Magna specific)"
+      },
+      "narrativeStructureComparator": {
+        "storyArcAnalysis": "Lear's narrative follows an 'Evolution of Excellence' arc, highlighting its established expertise in physical manufacturing and its transition to future-oriented digital solutions. [cite: 3833]",
+        "commonNarrativeThemesHeatMap": {
+          "Seating": "High",
+          "E-Systems": "High",
+          "Innovation": "High",
+          "Sustainability": "High",
+          "Operational Excellence": "High",
+          "Leadership": "High"
+        },
+        "uniqueNarrativeElementsIdentifier": [
+          "Explicit dual focus on 'physical manufacturing legacy and future-oriented digital solutions'. [cite: 3833]",
+          "High volume of sustainability messaging, but with lower sentiment than tech themes. [cite: 3835]"
+        ],
+        "narrativeMemorabilityIndex": "High (clear product pillars and established expertise).",
+        "transformationClaimsVsEvidence": "Strong claims for innovation and sustainability, supported by product development, but with a tension between declarative communication and partnership values. [cite: 3834, 3835]"
+      },
+      "archetypeNarrativeCoherenceScorer": {
+        "alignmentAssessment": "8.5/10 (Generally coherent, highest among analyzed brands, but minor tensions in communication style and sustainability sentiment). [cite: 3834, 3835]",
+        "contradictionIdentifier": [
+          "Stated values of partnership vs. declarative communication style. [cite: 3834]",
+          "High volume of sustainability messaging vs. lower sentiment score for these themes. [cite: 3835]"
+        ],
+        "magnaVsBestCoherence": "Lear exhibits the best coherence among the analyzed brands due to its strong alignment of core narrative pillars and clear positioning.",
+        "strategicImplicationsOfMisalignment": "Potential for perceived lack of true collaborative spirit. Opportunity to integrate sustainability messaging more passionately and authentically to match strategic importance. [cite: 3834, 3835]"
+      },
+      "competitiveArchetypeStrategyMap": {
+        "positioning": {
+          "x": "Traditional-to-Transformational",
+          "y": "Saturated"
+        },
+        "movementVectors": "Opportunity to move towards 'Unique Transformational' by resolving communication tensions and leveraging its sustainability commitment more emotionally.",
+        "whitespaceTerritories": "N/A"
+      },
+      "creatorDifferentiationDashboard": "N/A"
+    },
+    {
+      "brandName": "MAGNA INTERNATIONAL",
+      "voicePersonalityCards": {
+        "The Comprehensive Architect": {
+          "description": "Communicates as a broad automotive technology provider, capable of shaping the future of mobility through integrated solutions. It speaks with a strategic and encompassing vision. [cite: 4531]"
+        },
+        "The Innovation Driver": {
+          "description": "Emphasizes innovation, safety, and sustainability themes, highlighting its role in vehicle electrification and autonomous driving. This persona is forward-looking and proactive. [cite: 4532]"
+        },
+        "The Shaping Force": {
+          "description": "Focuses on actively 'shaping the future of mobility', indicating a proactive and influential role in the industry. [cite: 4531]"
+        }
+      },
+      "tonalRangeHeatMap": {
+        "Trust-Building": {
+          "frequency": 300,
+          "context": "Dominant tone, reflecting its role as a reliable partner and comprehensive provider. [cite: 4307, 4308]"
+        },
+        "Confident": {
+          "frequency": 250,
+          "context": "Evident in statements about leadership in electrification and autonomous driving. [cite: 4309]"
+        },
+        "Authoritative": {
+          "frequency": 200,
+          "context": "When describing its broad portfolio and strategic capabilities. [cite: 4310]"
+        },
+        "Anticipatory": {
+          "frequency": 180,
+          "context": "When discussing future trends and shaping the mobility landscape. [cite: 4311]"
+        }
+      },
+      "lexiconExplorer": {
+        "automotive_technology_provider": {
+          "category": "Core Identity",
+          "uniqueWords": [
+            "automotive",
+            "technology",
+            "provider",
+            "systems",
+            "components"
+          ]
+        },
+        "shaping_future_mobility": {
+          "category": "Strategic Vision",
+          "uniqueWords": [
+            "shaping",
+            "future",
+            "mobility",
+            "evolution",
+            "transformation"
+          ]
+        },
+        "electrification_autonomous_driving": {
+          "category": "Key Technology Areas",
+          "uniqueWords": [
+            "electrification",
+            "autonomous driving",
+            "e-mobility",
+            "ADAS",
+            "smart"
+          ]
+        },
+        "innovation_safety_sustainability": {
+          "category": "Pillars of Focus",
+          "uniqueWords": [
+            "innovation",
+            "safety",
+            "sustainability",
+            "responsible",
+            "green"
+          ]
+        }
+      },
+      "rhetoricalStyleTriangleCharts": {
+        "ethos": "45%",
+        "logos": "45%",
+        "pathos": "10%"
+      },
+      "brandNarrativeReader": "Magna International is positioned as a comprehensive automotive technology provider focused on shaping the future of mobility. The brand demonstrates strong coherence around innovation, safety, and sustainability themes, with clear strategic emphasis on vehicle electrification and autonomous driving technologies. However, strategic tensions exist between the brand's broad portfolio messaging and its need for clearer differentiation in specific technology areas. The core narrative aims to position Magna as an essential technology partner that transforms automotive solutions. [cite: 4531, 4532, 4533, 4240]",
+      "archetypeConstellation": {
+        "primary": "Creator",
+        "secondary": "Sage",
+        "visualizationNotes": "The Creator archetype reflects Magna's active role in 'shaping the future of mobility' and its focus on innovation and building new technologies. The Sage archetype aligns with its comprehensive knowledge and expertise as a technology provider."
+      },
+      "archetypePatternAnalyzer": {
+        "industryArchetypeDistribution": "Creator: 20% (low saturation, significant advantage for Magna)",
+        "unusedArchetypes": ["Hero", "Rebel", "Explorer"],
+        "creatorAdvantage": "Magna is one of only two brands (with Gentex) exhibiting a Creator archetype, providing a significant differentiation opportunity. Its Creator/Sage combination is unique.",
+        "primaryVsSecondaryPatterns": "Magna's Creator/Sage combination suggests 'Enlightened Creation', positioning it as a brand that not only understands the future but actively builds it with deep expertise.",
+        "differentiationOpportunityScorecard": {
+          "Creator Relevance to Transformation": "High. Creator archetype is crucial for leading the automotive industry's transformation by pioneering new technologies and solutions.",
+          "Magna vs. Gentex Creator Execution": "Magna's Creator execution focuses on broad future-shaping, while Gentex integrates Creator with Caregiver for human-centric innovation. Magna needs to make its 'creation' more tangible and specific to stand out.",
+          "Leveraging Creator Against Sages": "Magna can differentiate from Sage-dominant competitors by showcasing its R&D, design processes, and breakthrough product development, emphasizing 'making' over just 'knowing'.",
+          "Creator-Sage Unique Combination Power": "This combination (Magna's) offers a powerful narrative: 'We know how to build the future, and we are building it.' It combines thought leadership with tangible innovation, making it more actionable than pure Sage.",
+          "Specific Tactics for Creator Advantage": [
+            "Highlighting advanced R&D projects and prototype reveals.",
+            "Featuring 'innovation stories' and the engineers/designers behind them.",
+            "Emphasizing co-creation with partners and customers.",
+            "Investing in a narrative that demonstrates 'how' Magna is shaping the future, not just 'what' it's shaping."
+          ]
+        }
+      },
+      "narrativeStructureComparator": {
+        "storyArcAnalysis": "Magna's narrative often follows a 'Shaping the Future' arc: identifying the evolving mobility landscape and positioning itself as the active force in defining its direction through innovation. [cite: 4531]",
+        "commonNarrativeThemesHeatMap": {
+          "Innovation": "High",
+          "Safety": "High",
+          "Sustainability": "High",
+          "Electrification": "High",
+          "Autonomous Driving": "High",
+          "Future Mobility": "High",
+          "Comprehensive Solutions": "High"
+        },
+        "uniqueNarrativeElementsIdentifier": [
+          "Direct claim of 'shaping the future of mobility'. [cite: 4531]",
+          "Focus on being the 'essential technology partner that transforms automotive solutions'. [cite: 4240]"
+        ],
+        "narrativeMemorabilityIndex": "Medium to High (strong themes, but broad portfolio can diffuse impact).",
+        "transformationClaimsVsEvidence": "High claims for transformative impact, supported by broad portfolio and investment in key tech areas, but clearer differentiation in specific areas is needed. [cite: 4533]"
+      },
+      "archetypeNarrativeCoherenceScorer": {
+        "alignmentAssessment": "7/10 (Moderate to high coherence, but broad portfolio messaging creates tension). [cite: 4407]",
+        "contradictionIdentifier": [
+          "Broad portfolio messaging vs. need for clearer differentiation in specific technology areas. [cite: 4533]"
+        ],
+        "magnaVsBestCoherence": "Needs to learn from Lear's strong coherence by tightening its narrative focus and explicitly linking broad capabilities to distinct value propositions. Magna's coherence is good, but Lear's is exemplary.",
+        "strategicImplicationsOfMisalignment": "Risk of being perceived as a 'jack of all trades, master of none' in specific, competitive tech domains. Opportunity to refine messaging to highlight unique strengths and clear impact areas. [cite: 4533]"
+      },
+      "competitiveArchetypeStrategyMap": {
+        "positioning": {
+          "x": "Transformational",
+          "y": "Unique"
+        },
+        "movementVectors": "Strong position in 'Unique Transformational' due to Creator archetype, opportunity to solidify by addressing differentiation needs.",
+        "whitespaceTerritories": "N/A"
+      },
+      "creatorDifferentiationDashboard": {
+        "whyCreatorMattersInTransformation": "The Creator archetype signifies innovation, vision, and the ability to bring new realities into existence, which is crucial for leading transformative change rather than just adapting to it.",
+        "magnaVsGentexCreatorExecutionComparison": "Magna's Creator execution focuses on broadly 'shaping the future,' emphasizing its comprehensive capabilities. Gentex, as a Creator/Caregiver, integrates innovation with human-centric values and focuses on specific 'vision technology.' Magna could benefit from more tangible examples of its creative output and unique contributions, similar to Gentex's specialization.",
+        "howToLeverageAgainst70PercentSages": "Magna, as a Creator, can differentiate from the dominant Sage archetype (which focuses on knowledge and guidance) by actively showcasing its breakthrough R&D, new product development, and unique manufacturing processes. This emphasizes 'doing' and 'making' over just 'knowing'.",
+        "creatorSageUniqueCombinationPower": "Magna's Creator-Sage combination is powerful: it positions the brand as a knowledgeable leader who also actively builds and innovates. This allows Magna to not just understand the future of mobility, but to tangibly create its components and systems, offering a more complete solution than a pure Sage.",
+        "specificTacticsForCreatorAdvantage": [
+          "Feature behind-the-scenes content on R&D, design, and prototyping.",
+          "Launch 'innovation challenges' or platforms to engage external creators.",
+          "Highlight specific breakthrough technologies and their journey from concept to reality.",
+          "Emphasize the 'art and science' of automotive manufacturing and system integration."
+        ]
+      }
+    },
+    {
+      "brandName": "VALEO",
+      "voicePersonalityCards": {
+        "The Transformation Architect": {
+          "description": "Positions itself as the architect of mobility's software-defined future, communicating a clear vision for revolutionary change in the industry. It speaks with strategic intent and a focus on systemic evolution. [cite: 5127]"
+        },
+        "The Technical Authority": {
+          "description": "Demonstrates strong technical authority through a dominant trust-building tone and high active voice, emphasizing its expertise in electrification, automation, and digitalization. [cite: 5128]"
+        },
+        "The Safety-Focused Innovator": {
+          "description": "Combines a commitment to innovation with a measured, safety-focused communication style, ensuring that its transformative solutions are also reliable and secure. [cite: 5129]"
+        }
+      },
+      "tonalRangeHeatMap": {
+        "Trust-Building": {
+          "frequency": 335,
+          "context": "Dominant, foundational for establishing credibility in a rapidly transforming industry. [cite: 5128, 4950]"
+        },
+        "Authoritative": {
+          "frequency": "High (85% active voice)",
+          "context": "Reflects its technical expertise and declarative statements about its role. [cite: 5128]"
+        },
+        "Confident": {
+          "frequency": "High",
+          "context": "Seen in claims about leading electrification and automation. [cite: 4951]"
+        },
+        "Strategic": {
+          "frequency": "Medium",
+          "context": "When discussing long-term vision and market positioning. [cite: 4952]"
+        }
+      },
+      "lexiconExplorer": {
+        "software_defined_future": {
+          "category": "Core Strategic Theme",
+          "uniqueWords": [
+            "software-defined",
+            "future",
+            "mobility",
+            "transformation",
+            "architect"
+          ]
+        },
+        "electrification_automation_digitalization": {
+          "category": "Key Technology Pillars",
+          "uniqueWords": [
+            "electrification",
+            "automation",
+            "digitalization",
+            "ADAS",
+            "smart"
+          ]
+        },
+        "revolutionary_change": {
+          "category": "Narrative Descriptor",
+          "uniqueWords": [
+            "revolutionary",
+            "disruption",
+            "evolution",
+            "shift",
+            "paradigm"
+          ]
+        },
+        "safety_focused": {
+          "category": "Communication Style",
+          "uniqueWords": [
+            "safety-focused",
+            "measured",
+            "secure",
+            "reliable",
+            "trust"
+          ]
+        }
+      },
+      "rhetoricalStyleTriangleCharts": {
+        "ethos": "40%",
+        "logos": "50%",
+        "pathos": "10%"
+      },
+      "brandNarrativeReader": "VALEO is an automotive technology brand deeply committed to transformation—positioning itself as the architect of mobility's software-defined future. The emergent brand demonstrates strong coherence around electrification, automation, and digitalization themes, with a dominant trust-building tone and technical authority (85% active voice). However, strategic tensions emerge between the brand's revolutionary transformation narrative and its measured, safety-focused communication style, suggesting potential gaps in emotional urgency relative to the industry disruption it describes. The core narrative focuses on driving the evolution of mobility through smart, sustainable, and intuitive solutions. [cite: 5127, 5128, 5129, 4821]",
+      "archetypeConstellation": {
+        "primary": "Sage",
+        "secondary": "Magician",
+        "visualizationNotes": "The Sage archetype aligns with VALEO's position as a technical authority and architect of future mobility. The Magician archetype reflects its revolutionary transformation narrative, bringing about seemingly impossible changes through advanced technology."
+      },
+      "archetypePatternAnalyzer": {
+        "industryArchetypeDistribution": "Sage: 70% (saturation high)",
+        "unusedArchetypes": ["Hero", "Rebel", "Explorer"],
+        "creatorAdvantage": "N/A (VALEO is Sage/Magician)",
+        "primaryVsSecondaryPatterns": "VALEO's Sage/Magician combination suggests 'Enlightened Transformation', positioning it as a knowledgeable leader who orchestrates profound and almost magical changes in mobility.",
+        "differentiationOpportunityScorecard": "N/A (Magna specific)"
+      },
+      "narrativeStructureComparator": {
+        "storyArcAnalysis": "VALEO's narrative follows a 'Revolutionary Transformation' arc, from current mobility to a software-defined future, though the communication style can be more measured than the claim. [cite: 5127, 5129]",
+        "commonNarrativeThemesHeatMap": {
+          "Electrification": "High",
+          "Automation": "High",
+          "Digitalization": "High",
+          "Software-Defined Mobility": "High",
+          "Transformation": "High",
+          "Safety": "Medium"
+        },
+        "uniqueNarrativeElementsIdentifier": [
+          "Positioning as 'the architect of mobility's software-defined future'. [cite: 5127]",
+          "Explicit tension between 'revolutionary' narrative and 'measured, safety-focused' style. [cite: 5129]"
+        ],
+        "narrativeMemorabilityIndex": "Medium (strong claims, but emotional urgency can be lacking). [cite: 5129]",
+        "transformationClaimsVsEvidence": "High claims for revolutionary transformation are supported by technological focus, but communication style creates a potential gap in perceived urgency. [cite: 5129]"
+      },
+      "archetypeNarrativeCoherenceScorer": {
+        "alignmentAssessment": "6/10 (Strategic tensions exist between revolutionary narrative and measured communication style). [cite: 5129]",
+        "contradictionIdentifier": [
+          "Revolutionary transformation narrative vs. measured, safety-focused communication style. [cite: 5129]"
+        ],
+        "magnaVsBestCoherence": "N/A",
+        "strategicImplicationsOfMisalignment": "Potential for the brand's revolutionary message to be understated. Opportunity to infuse more urgency and passion into communications to match the ambition of its narrative. [cite: 5129]"
+      },
+      "competitiveArchetypeStrategyMap": {
+        "positioning": {
+          "x": "Transformational",
+          "y": "Saturated"
+        },
+        "movementVectors": "Opportunity to move towards 'Unique Transformational' by resolving the communication style tension and more explicitly demonstrating the 'magic' of its transformative solutions.",
+        "whitespaceTerritories": "N/A"
+      },
+      "creatorDifferentiationDashboard": "N/A"
+    },
+    {
+      "brandName": "ZF",
+      "voicePersonalityCards": {
+        "The Mobility Transformer": {
+          "description": "Positions itself as a technology-driven entity transforming mobility, at the intersection of traditional automotive excellence and future-oriented innovation. [cite: 5662]"
+        },
+        "The Technical Leader": {
+          "description": "Communicates through technological leadership in electric mobility, autonomous driving, and sustainable transportation solutions. It speaks with authority and focus on advanced engineering. [cite: 5663]"
+        },
+        "The Dual Bridger": {
+          "description": "Highlights its ability to bridge deep roots in traditional mechanical systems with future-focused rhetoric, showing adaptability and comprehensive capability. [cite: 5664]"
+        }
+      },
+      "tonalRangeHeatMap": {
+        "Trust-Building": {
+          "frequency": "Dominant",
+          "context": "Fundamental for establishing reliability in automotive systems. [cite: 5500, 5501]"
+        },
+        "Authoritative": {
+          "frequency": "High",
+          "context": "When discussing technological leadership and comprehensive solutions. [cite: 5502]"
+        },
+        "Confident": {
+          "frequency": "High",
+          "context": "In declarative statements about its role in future mobility. [cite: 5503]"
+        },
+        "Analytical": {
+          "frequency": "Medium",
+          "context": "When presenting technical details and problem-solving approaches. [cite: 5504]"
+        }
+      },
+      "lexiconExplorer": {
+        "technology_driven_mobility": {
+          "category": "Core Identity",
+          "uniqueWords": [
+            "technology-driven",
+            "mobility",
+            "transformer",
+            "innovation",
+            "future"
+          ]
+        },
+        "electric_mobility_autonomous_driving": {
+          "category": "Key Strategic Areas",
+          "uniqueWords": [
+            "electric mobility",
+            "autonomous driving",
+            "sustainable transportation",
+            "ADAS",
+            "e-mobility"
+          ]
+        },
+        "traditional_mechanical_systems": {
+          "category": "Heritage & Foundation",
+          "uniqueWords": [
+            "traditional",
+            "mechanical",
+            "systems",
+            "roots",
+            "excellence"
+          ]
+        },
+        "corpus_contamination": {
+          "category": "Internal Analysis Issue",
+          "uniqueWords": [
+            "corpus",
+            "contamination",
+            "employee diversity",
+            "narratives",
+            "diverge"
+          ]
+        }
+      },
+      "rhetoricalStyleTriangleCharts": {
+        "ethos": "40%",
+        "logos": "50%",
+        "pathos": "10%"
+      },
+      "brandNarrativeReader": "ZF presents itself as a technology-driven mobility transformer, positioning at the intersection of traditional automotive excellence and future-oriented innovation. The brand narrative is centered on technological leadership in electric mobility, autonomous driving, and sustainable transportation solutions. Strategic tensions were uncovered between the brand's future-focused rhetoric and its deep roots in traditional mechanical systems. There was also potential corpus contamination in employee diversity narratives that diverge from the dominant technical discourse. [cite: 5662, 5663, 5664]",
+      "archetypeConstellation": {
+        "primary": "Sage",
+        "secondary": "Innovator (variant of Creator/Magician)",
+        "visualizationNotes": "The Sage archetype aligns with ZF's technological leadership and expertise in future mobility solutions. An 'Innovator' secondary archetype reflects its focus on transforming the industry through new technologies, bridging its traditional roots with future innovations."
+      },
+      "archetypePatternAnalyzer": {
+        "industryArchetypeDistribution": "Sage: 70% (saturation high)",
+        "unusedArchetypes": ["Hero", "Rebel", "Explorer"],
+        "creatorAdvantage": "N/A (ZF is Sage/Innovator, but not explicitly Creator as defined)",
+        "primaryVsSecondaryPatterns": "ZF's Sage/Innovator combination suggests 'Knowledgeable Transformation', positioning it as an expert guide that also actively brings about technological change.",
+        "differentiationOpportunityScorecard": "N/A (Magna specific)"
+      },
+      "narrativeStructureComparator": {
+        "storyArcAnalysis": "ZF's narrative often follows a 'Transformation Bridge' arc: connecting its established mechanical heritage with future electric and autonomous mobility, though with some tension. [cite: 5662, 5664]",
+        "commonNarrativeThemesHeatMap": {
+          "Electric Mobility": "High",
+          "Autonomous Driving": "High",
+          "Sustainable Transportation": "High",
+          "Technological Leadership": "High",
+          "Traditional Excellence": "Medium",
+          "Future-Oriented Innovation": "High"
+        },
+        "uniqueNarrativeElementsIdentifier": [
+          "Positioning at the 'intersection of traditional automotive excellence and future-oriented innovation'. [cite: 5662]",
+          "Presence of 'corpus contamination' in diversity narratives. [cite: 5664]"
+        ],
+        "narrativeMemorabilityIndex": "Medium (strong tech focus, but internal tensions can affect clarity).",
+        "transformationClaimsVsEvidence": "Strong claims for transforming mobility, supported by investments in electric/autonomous tech, but internal tension with traditional roots and data issues exist. [cite: 5663, 5664]"
+      },
+      "archetypeNarrativeCoherenceScorer": {
+        "alignmentAssessment": "6/10 (Strategic tensions between future rhetoric and traditional roots, plus data contamination). [cite: 5664]",
+        "contradictionIdentifier": [
+          "Future-focused rhetoric vs. deep roots in traditional mechanical systems. [cite: 5664]",
+          "Potential corpus contamination in employee diversity narratives. [cite: 5664]"
+        ],
+        "magnaVsBestCoherence": "N/A",
+        "strategicImplicationsOfMisalignment": "Risk of perceived inconsistency in strategy or internal messaging. Opportunity to clearly articulate how traditional strengths underpin future innovation, and to resolve internal data discrepancies. [cite: 5664]"
+      },
+      "competitiveArchetypeStrategyMap": {
+        "positioning": {
+          "x": "Traditional-to-Transformational",
+          "y": "Saturated"
+        },
+        "movementVectors": "Opportunity to move towards 'Unique Transformational' by explicitly integrating its mechanical heritage as a foundational strength for future innovation, rather than a tension.",
+        "whitespaceTerritories": "N/A"
+      },
+      "creatorDifferentiationDashboard": "N/A"
+    }
+  ],
+  "overallAnalysis": {
+    "archetypePatternAnalyzer": {
+      "industryArchetypeDistribution": {
+        "Sage": "70% (APTIV, BOSCH MOBILITY, CONTINENTAL, DENSO, FORVIA HELLA, LEAR, VALEO, ZF)",
+        "Creator": "20% (MAGNA INTERNATIONAL, GENTEX)",
+        "Caregiver": "Involved as secondary for GENTEX and FORVIA HELLA, CONTINENTAL.",
+        "Innocent": "Involved as secondary for LEAR and DENSO.",
+        "Ruler": "Involved as secondary for BOSCH MOBILITY.",
+        "Magician": "Involved as secondary for VALEO.",
+        "UnusedArchetypes": [
+          "Hero",
+          "Rebel",
+          "Explorer",
+          "Jester",
+          "Lover",
+          "Orphan",
+          "Everyman"
+        ]
+      },
+      "creatorAdvantage": "Only 20% of the analyzed brands (Magna International and Gentex) exhibit a Creator archetype (primary or secondary). This low saturation represents a significant differentiation opportunity for these brands, particularly in a transforming industry where innovation is key.",
+      "primaryVsSecondaryPatternsVisualization": {
+        "Sage-Creator": "Magna International (Knowledgeable Creation)",
+        "Sage-Ruler": "Bosch Mobility (Authoritative Knowledge Leadership)",
+        "Sage-Caregiver": "Continental, Forvia Hella (Protective Knowledge / Knowledgeable Nurturer)",
+        "Sage-Innocent": "Lear, Denso (Trusted Wisdom for a Better Future / Enlightened Purity)",
+        "Sage-Innovator": "ZF (Knowledgeable Transformation)",
+        "Sage-Magician": "Valeo (Enlightened Transformation)",
+        "Creator-Caregiver": "Gentex (Innovative Nurturing)"
+      }
+    },
+    "narrativeStructureComparator": {
+      "commonNarrativeThemesHeatMap": {
+        "Transformation": "High (across all brands)",
+        "Safety": "High (across most brands)",
+        "Sustainability": "High (across most brands)",
+        "Innovation": "High (across most brands)",
+        "Electrification": "High (major theme)",
+        "Autonomous Driving": "High (major theme)",
+        "Digitalization/Software-Defined": "High (emerging theme)",
+        "Industrial Heritage/Traditional Excellence": "Medium (present in some, with tension)",
+        "Human-Centric/Employee Focus": "Low-Medium (prominent in Gentex, less explicit elsewhere)",
+        "Partnership/Collaboration": "Medium (often stated, but sometimes less explicit in communication style)"
+      },
+      "uniqueNarrativeElementsIdentifier": [
+        "APTIV: Ownership of 'brain' and 'nervous system' of vehicles. [cite: 299]",
+        "BOSCH MOBILITY: Claim of 'orchestrating' transformation; bridging 'hardware legacy with software futures'. [cite: 931, 932]",
+        "CONTINENTAL: Emphasis on 'zero-accident mobility' vision. [cite: 1252]",
+        "DENSO: Commitment to fostering a 'cycle of well-being'; ethos-driven authority. [cite: 1771, 1898]",
+        "FORVIA HELLA: Explicit 'dual identity' narrative (heritage engineering vs. transformation). [cite: 2555]",
+        "GENTEX: Unusually high trust-emotion ratio (102:12); explicit integration of technological and human-centric narratives. [cite: 3089, 3088]",
+        "LEAR: Explicit dual focus on 'physical manufacturing legacy and future-oriented digital solutions'; high volume of sustainability messaging with lower sentiment. [cite: 3833, 3835]",
+        "MAGNA INTERNATIONAL: Direct claim of 'shaping the future of mobility'. [cite: 4531]",
+        "VALEO: Positioning as 'the architect of mobility's software-defined future'; explicit tension between 'revolutionary' narrative and 'measured, safety-focused' style. [cite: 5127, 5129]",
+        "ZF: Positioning at the 'intersection of traditional automotive excellence and future-oriented innovation'; presence of 'corpus contamination' in diversity narratives. [cite: 5662, 5664]"
+      ],
+      "narrativeMemorabilityIndex": {
+        "High": ["Lear", "Gentex"],
+        "Medium-High": ["Magna International"],
+        "Medium": [
+          "Aptiv",
+          "Bosch Mobility",
+          "Continental",
+          "Denso",
+          "Forvia Hella",
+          "Valeo",
+          "ZF"
+        ]
+      },
+      "transformationClaimsVsEvidence": "Across all brands, there are strong claims regarding future transformation. Evidence primarily comes from investments in electrification, autonomous driving, and software-defined solutions. However, several brands show strategic tensions where their communication style (e.g., too measured, overly technical) or internal legacy (e.g., traditional mechanical systems, product-centricity) creates a gap between the ambitious claims and perceived current delivery or emotional urgency. The most coherent brands (e.g., Lear, Gentex) manage to more seamlessly integrate their heritage with their future vision or clearly align values with technical innovation."
+    },
+    "archetypeNarrativeCoherenceScorer": {
+      "alignmentAssessmentOverview": "Coherence scores range from 6/10 to 8.5/10. Lear (8.5/10) exhibits the highest coherence, followed by Gentex (8/10). Other brands generally fall in the 6-7/10 range, indicating room for narrative refinement.",
+      "contradictionIdentifierOverview": [
+        "**Future vs. Present/Heritage:** Common tension between ambitious future-focused narratives and current delivery claims or deep roots in traditional systems (Aptiv, Bosch, Continental, Forvia Hella, ZF, Valeo).",
+        "**Communication Style vs. Values/Narrative:** Discrepancies between stated values (e.g., partnership) and declarative communication styles (Lear), or revolutionary narratives vs. measured tones (Valeo).",
+        "**Broad Scope vs. Differentiation:** Tension for brands with broad portfolios needing clearer differentiation in specific tech areas (Magna, Bosch).",
+        "**Sentiment Gaps:** Lower sentiment for certain themes (e.g., sustainability in Lear) despite high volume of messaging.",
+        "**Audience Inconsistency/Data Anomalies:** Inconsistent audience targeting (Denso, Continental) or internal data issues (ZF, Continental)."
+      ],
+      "magnaVsBestCoherence": "Magna's coherence (7/10) is moderate to high, but it can learn significantly from Lear (8.5/10). Lear's coherence comes from its clear product pillars and consistent authoritative voice despite minor tensions. Magna needs to clarify its differentiation in specific technology areas to match its broad 'shaping the future' narrative, turning perceived breadth into focused impact.",
+      "strategicImplicationsOfMisalignment": "Misalignment can lead to diluted brand perception, lack of emotional engagement, perceived inconsistency, and missed differentiation opportunities. Resolving these tensions is crucial for strengthening market position and ensuring that strategic ambitions are effectively communicated and perceived by key stakeholders."
+    },
+    "competitiveArchetypeStrategyMap": {
+      "gridPositioning": {
+        "Traditional / Saturated": ["Continental", "Lear", "ZF", "Denso"],
+        "Traditional-to-Transformational / Saturated": [
+          "Aptiv",
+          "Bosch Mobility",
+          "Forvia Hella",
+          "Valeo"
+        ],
+        "Transformational / Saturated": [],
+        "Traditional / Unique": [],
+        "Traditional-to-Transformational / Unique": [],
+        "Transformational / Unique": ["Magna International", "Gentex"],
+        "WhitespaceTerritories": "GREEN #8FFF00: Strong whitespace exists in the 'Traditional / Unique' and 'Traditional-to-Transformational / Unique' quadrants. While 'Transformational / Unique' has been claimed by Magna and Gentex, there is still ample room for more brands to innovate within this space, especially by leveraging unique archetypal combinations. The highest value whitespace is likely 'Unique Transformational' where brands can truly redefine the industry without heavy competition on their specific archetypal expression."
+      },
+      "movementVectorsShowingEvolutionOpportunities": [
+        "Most 'Saturated' brands (Sage-dominant) need to move towards 'Unique' by: \n    - Developing a more distinct secondary archetype narrative. \n    - More passionately embodying values beyond just knowledge. \n    - Translating broad themes into specific, emotionally resonant stories. \n    - Explicitly resolving internal narrative tensions.",
+        "Brands like Aptiv, Bosch, Continental, Forvia Hella, Valeo, ZF, while engaging in transformation, are still perceived in a somewhat saturated archetypal space (Sage dominant). Their movement vectors are towards 'Unique Transformational' by resolving internal tensions between their legacy and future, and by honing their specific transformative contribution.",
+        "Magna and Gentex (Creator archetypes) are already in the 'Transformational / Unique' quadrant. Their movement vectors are about *solidifying* this position by further amplifying their unique creative contributions and coherence."
+      ]
+    }
+  }
+}
